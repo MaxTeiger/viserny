@@ -274,3 +274,4 @@ table.horaires thead th { background: var(--fond); font-weight: 600; }
 @media print {
   #contacts { break-before: page; }
 }
+ol.etapes h4 { margin: .9rem 0 .2rem; font-size: 1rem; }
