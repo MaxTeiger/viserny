@@ -1,11 +1,11 @@
 #!/bin/bash
-# Lancé chaque matin par ~/Library/LaunchAgents/com.max.viserny-events.plist :
+# Lancé chaque jour par le conteneur viserny-events (~/server/docker/services/viserny-events) :
 # régénère events.json et le publie sur GitHub Pages s'il a changé.
 set -euo pipefail
 cd "$(dirname "$0")"
 echo "--- $(date '+%F %T')"
 git pull --quiet --rebase
-/usr/bin/python3 -I update-events.py
+python3 -I update-events.py
 if git diff --quiet -- events.json; then
   echo "events.json inchangé"
   exit 0
