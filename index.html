@@ -15,11 +15,17 @@
   </header>
 
   <nav class="menu">
-    <a href="#meteo">Météo</a>
-    <a href="#evenements">Sorties</a>
-    <a href="consignes.html#ouvrir">Arrivée</a>
-    <a href="consignes.html#sejour">Séjour</a>
-    <a href="consignes.html#fermer">Départ</a>
+    <a href="index.html">Accueil</a>
+    <details class="deroulant">
+      <summary>Consignes</summary>
+      <div class="sous-menu">
+        <a href="consignes.html#ouvrir">🔑 À l'arrivée</a>
+        <a href="consignes.html#sejour">🏡 Pendant le séjour</a>
+        <a href="consignes.html#fermer">🔒 Au départ</a>
+      </div>
+    </details>
+    <a href="consignes.html#contacts">Contacts</a>
+    <a href="consignes.pdf">PDF</a>
   </nav>
 
   <main>
@@ -45,8 +51,8 @@
       <h2>La maison</h2>
       <div class="tuiles">
         <a class="carte tuile" href="consignes.html#ouvrir"><span>🔑</span>À l'arrivée</a>
-        <a class="carte tuile" href="consignes.html#fermer"><span>🔒</span>Au départ</a>
         <a class="carte tuile" href="consignes.html#sejour"><span>🏡</span>Pendant le séjour</a>
+        <a class="carte tuile" href="consignes.html#fermer"><span>🔒</span>Au départ</a>
         <a class="carte tuile" href="consignes.html#contacts"><span>📞</span>Contacts utiles</a>
         <a class="carte tuile" href="consignes.pdf"><span>🖨️</span>Tout en PDF</a>
       </div>
@@ -55,7 +61,8 @@
 
   <footer>
     Météo : <a href="https://open-meteo.com/">Open-Meteo</a> ·
-    Sorties : <a href="https://www.datatourisme.fr/">DATAtourisme</a> (offices de tourisme de Côte-d'Or), Licence Ouverte
+    Sorties : <a href="https://www.datatourisme.fr/">DATAtourisme</a> (offices de tourisme de Côte-d'Or), Licence Ouverte<br>
+    <a href="consignes.pdf">Consignes en PDF à imprimer</a>
   </footer>
 
   <script>
@@ -225,5 +232,6 @@
     meteo();
     evenements();
   </script>
+  <script src="menu.js"></script>
 </body>
 </html>
