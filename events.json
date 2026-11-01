@@ -1,0 +1,2343 @@
+{
+"maj": "2026-11-01",
+"rayon_km": 25,
+"evenements": [
+{
+"titre": "Exposition temporaire : César, tous les chemins mènent à Rome Saison 2",
+"commune": "Alise-Sainte-Reine",
+"km": 14,
+"periodes": [
+[
+"2026-02-07",
+"2026-11-30"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Faites vos jeux !",
+"commune": "Alise-Sainte-Reine",
+"km": 14,
+"periodes": [
+[
+"2026-04-04",
+"2026-11-29"
+]
+],
+"types": [
+"Enfants"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Recrutement choriste au Chœur de Haute Côte d'Or",
+"commune": "Crépand",
+"km": 6,
+"periodes": [
+[
+"2026-09-15",
+"2027-06-29"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Evelyne Pasquet s'invite dans la vitrine de l'office de tourisme",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-10-05",
+"2026-12-23"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Escape game - La bague perdue",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-10-17",
+"2026-12-23"
+]
+],
+"types": [
+"Jeu",
+"Sport"
+],
+"lien": "https://www.terres-auxois.fr/explorer-les-terres-dauxois-2/escape-game-la-bague-perdue/",
+"resume": ""
+},
+{
+"titre": "Ateliers d'écriture \"se couvenir, écrire la mémoire\"",
+"commune": "Arrans",
+"km": 15,
+"periodes": [
+[
+"2026-10-17",
+"2026-11-21"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Exposition Magies Baroques",
+"commune": "Bussy-le-Grand",
+"km": 18,
+"periodes": [
+[
+"2026-10-18",
+"2027-04-25"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://www.chateau-bussy-rabutin.fr/",
+"resume": ""
+},
+{
+"titre": "Enquête dans les camps de César",
+"commune": "Alise-Sainte-Reine",
+"km": 14,
+"periodes": [
+[
+"2026-11-01",
+"2026-11-29"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Coup de Cœur surprise AFCAE",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-03",
+"2026-11-03"
+],
+[
+"2026-12-01",
+"2026-12-01"
+],
+[
+"2027-01-05",
+"2027-01-05"
+],
+[
+"2027-02-02",
+"2027-02-02"
+],
+[
+"2027-03-02",
+"2027-03-02"
+],
+[
+"2027-04-06",
+"2027-04-06"
+],
+[
+"2027-05-04",
+"2027-05-04"
+],
+[
+"2027-06-01",
+"2027-06-01"
+],
+[
+"2027-07-06",
+"2027-07-06"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.ticketingcine.com/?EMS1153#showmovie?id=SOF6K",
+"resume": ""
+},
+{
+"titre": "Sophro-balade",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-03",
+"2026-11-03"
+],
+[
+"2026-11-10",
+"2026-11-10"
+],
+[
+"2026-11-17",
+"2026-11-17"
+],
+[
+"2026-11-24",
+"2026-11-24"
+],
+[
+"2026-12-01",
+"2026-12-01"
+],
+[
+"2026-12-08",
+"2026-12-08"
+],
+[
+"2026-12-15",
+"2026-12-15"
+],
+[
+"2026-12-22",
+"2026-12-22"
+],
+[
+"2026-12-29",
+"2026-12-29"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "https://www.corinecastella.com/",
+"resume": ""
+},
+{
+"titre": "Séance cinéma \"Ni vue, ni connue\"",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-03",
+"2026-11-03"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Visite de la fabrique Bon Vivant et dégustation de biscuits",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-04",
+"2026-11-04"
+],
+[
+"2026-11-18",
+"2026-11-18"
+],
+[
+"2026-11-25",
+"2026-11-25"
+],
+[
+"2026-12-02",
+"2026-12-02"
+],
+[
+"2026-12-09",
+"2026-12-09"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "https://forms.gle/Vj3XQC13oRCyxoQW9",
+"resume": ""
+},
+{
+"titre": "Marché hebdomadaire",
+"commune": "Venarey-les-Laumes",
+"km": 13,
+"periodes": [
+[
+"2026-11-04",
+"2026-11-04"
+],
+[
+"2026-11-11",
+"2026-11-11"
+],
+[
+"2026-11-18",
+"2026-11-18"
+],
+[
+"2026-11-25",
+"2026-11-25"
+],
+[
+"2026-12-02",
+"2026-12-02"
+],
+[
+"2026-12-09",
+"2026-12-09"
+],
+[
+"2026-12-16",
+"2026-12-16"
+],
+[
+"2026-12-23",
+"2026-12-23"
+],
+[
+"2026-12-30",
+"2026-12-30"
+],
+[
+"2027-01-06",
+"2027-01-06"
+],
+[
+"2027-01-13",
+"2027-01-13"
+],
+[
+"2027-01-20",
+"2027-01-20"
+],
+[
+"2027-01-27",
+"2027-01-27"
+],
+[
+"2027-02-03",
+"2027-02-03"
+],
+[
+"2027-02-10",
+"2027-02-10"
+],
+[
+"2027-02-17",
+"2027-02-17"
+],
+[
+"2027-02-24",
+"2027-02-24"
+],
+[
+"2027-03-03",
+"2027-03-03"
+],
+[
+"2027-03-10",
+"2027-03-10"
+],
+[
+"2027-03-17",
+"2027-03-17"
+],
+[
+"2027-03-24",
+"2027-03-24"
+],
+[
+"2027-03-31",
+"2027-03-31"
+],
+[
+"2027-04-07",
+"2027-04-07"
+],
+[
+"2027-04-14",
+"2027-04-14"
+],
+[
+"2027-04-21",
+"2027-04-21"
+],
+[
+"2027-04-28",
+"2027-04-28"
+],
+[
+"2027-05-05",
+"2027-05-05"
+],
+[
+"2027-05-12",
+"2027-05-12"
+],
+[
+"2027-05-19",
+"2027-05-19"
+],
+[
+"2027-05-26",
+"2027-05-26"
+],
+[
+"2027-06-02",
+"2027-06-02"
+],
+[
+"2027-06-09",
+"2027-06-09"
+],
+[
+"2027-06-16",
+"2027-06-16"
+],
+[
+"2027-06-23",
+"2027-06-23"
+],
+[
+"2027-06-30",
+"2027-06-30"
+],
+[
+"2027-07-07",
+"2027-07-07"
+],
+[
+"2027-07-14",
+"2027-07-14"
+],
+[
+"2027-07-21",
+"2027-07-21"
+],
+[
+"2027-07-28",
+"2027-07-28"
+],
+[
+"2027-08-04",
+"2027-08-04"
+],
+[
+"2027-08-11",
+"2027-08-11"
+],
+[
+"2027-08-18",
+"2027-08-18"
+],
+[
+"2027-08-25",
+"2027-08-25"
+],
+[
+"2027-09-01",
+"2027-09-01"
+],
+[
+"2027-09-08",
+"2027-09-08"
+],
+[
+"2027-09-15",
+"2027-09-15"
+],
+[
+"2027-09-22",
+"2027-09-22"
+],
+[
+"2027-09-29",
+"2027-09-29"
+],
+[
+"2027-10-06",
+"2027-10-06"
+],
+[
+"2027-10-13",
+"2027-10-13"
+],
+[
+"2027-10-20",
+"2027-10-20"
+],
+[
+"2027-10-27",
+"2027-10-27"
+],
+[
+"2027-11-03",
+"2027-11-03"
+],
+[
+"2027-11-10",
+"2027-11-10"
+],
+[
+"2027-11-17",
+"2027-11-17"
+],
+[
+"2027-11-24",
+"2027-11-24"
+],
+[
+"2027-12-01",
+"2027-12-01"
+],
+[
+"2027-12-08",
+"2027-12-08"
+],
+[
+"2027-12-15",
+"2027-12-15"
+],
+[
+"2027-12-22",
+"2027-12-22"
+],
+[
+"2027-12-29",
+"2027-12-29"
+],
+[
+"2028-01-05",
+"2028-01-05"
+],
+[
+"2028-01-12",
+"2028-01-12"
+],
+[
+"2028-01-19",
+"2028-01-19"
+],
+[
+"2028-01-26",
+"2028-01-26"
+],
+[
+"2028-02-02",
+"2028-02-02"
+],
+[
+"2028-02-09",
+"2028-02-09"
+],
+[
+"2028-02-16",
+"2028-02-16"
+],
+[
+"2028-02-23",
+"2028-02-23"
+],
+[
+"2028-03-01",
+"2028-03-01"
+],
+[
+"2028-03-08",
+"2028-03-08"
+],
+[
+"2028-03-15",
+"2028-03-15"
+],
+[
+"2028-03-22",
+"2028-03-22"
+],
+[
+"2028-03-29",
+"2028-03-29"
+],
+[
+"2028-04-05",
+"2028-04-05"
+],
+[
+"2028-04-12",
+"2028-04-12"
+],
+[
+"2028-04-19",
+"2028-04-19"
+],
+[
+"2028-04-26",
+"2028-04-26"
+],
+[
+"2028-05-03",
+"2028-05-03"
+],
+[
+"2028-05-10",
+"2028-05-10"
+],
+[
+"2028-05-17",
+"2028-05-17"
+],
+[
+"2028-05-24",
+"2028-05-24"
+],
+[
+"2028-05-31",
+"2028-05-31"
+],
+[
+"2028-06-07",
+"2028-06-07"
+],
+[
+"2028-06-14",
+"2028-06-14"
+],
+[
+"2028-06-21",
+"2028-06-21"
+],
+[
+"2028-06-28",
+"2028-06-28"
+],
+[
+"2028-07-05",
+"2028-07-05"
+],
+[
+"2028-07-12",
+"2028-07-12"
+],
+[
+"2028-07-19",
+"2028-07-19"
+],
+[
+"2028-07-26",
+"2028-07-26"
+],
+[
+"2028-08-02",
+"2028-08-02"
+],
+[
+"2028-08-09",
+"2028-08-09"
+],
+[
+"2028-08-16",
+"2028-08-16"
+],
+[
+"2028-08-23",
+"2028-08-23"
+],
+[
+"2028-08-30",
+"2028-08-30"
+],
+[
+"2028-09-06",
+"2028-09-06"
+],
+[
+"2028-09-13",
+"2028-09-13"
+],
+[
+"2028-09-20",
+"2028-09-20"
+],
+[
+"2028-09-27",
+"2028-09-27"
+],
+[
+"2028-10-04",
+"2028-10-04"
+],
+[
+"2028-10-11",
+"2028-10-11"
+],
+[
+"2028-10-18",
+"2028-10-18"
+],
+[
+"2028-10-25",
+"2028-10-25"
+],
+[
+"2028-11-01",
+"2028-11-01"
+],
+[
+"2028-11-08",
+"2028-11-08"
+],
+[
+"2028-11-15",
+"2028-11-15"
+],
+[
+"2028-11-22",
+"2028-11-22"
+],
+[
+"2028-11-29",
+"2028-11-29"
+],
+[
+"2028-12-06",
+"2028-12-06"
+],
+[
+"2028-12-13",
+"2028-12-13"
+],
+[
+"2028-12-20",
+"2028-12-20"
+],
+[
+"2028-12-27",
+"2028-12-27"
+],
+[
+"2029-01-03",
+"2029-01-03"
+],
+[
+"2029-01-10",
+"2029-01-10"
+],
+[
+"2029-01-17",
+"2029-01-17"
+],
+[
+"2029-01-24",
+"2029-01-24"
+],
+[
+"2029-01-31",
+"2029-01-31"
+],
+[
+"2029-02-07",
+"2029-02-07"
+],
+[
+"2029-02-14",
+"2029-02-14"
+],
+[
+"2029-02-21",
+"2029-02-21"
+],
+[
+"2029-02-28",
+"2029-02-28"
+],
+[
+"2029-03-07",
+"2029-03-07"
+],
+[
+"2029-03-14",
+"2029-03-14"
+],
+[
+"2029-03-21",
+"2029-03-21"
+],
+[
+"2029-03-28",
+"2029-03-28"
+],
+[
+"2029-04-04",
+"2029-04-04"
+],
+[
+"2029-04-11",
+"2029-04-11"
+],
+[
+"2029-04-18",
+"2029-04-18"
+],
+[
+"2029-04-25",
+"2029-04-25"
+],
+[
+"2029-05-02",
+"2029-05-02"
+],
+[
+"2029-05-09",
+"2029-05-09"
+],
+[
+"2029-05-16",
+"2029-05-16"
+],
+[
+"2029-05-23",
+"2029-05-23"
+],
+[
+"2029-05-30",
+"2029-05-30"
+],
+[
+"2029-06-06",
+"2029-06-06"
+],
+[
+"2029-06-13",
+"2029-06-13"
+],
+[
+"2029-06-20",
+"2029-06-20"
+],
+[
+"2029-06-27",
+"2029-06-27"
+],
+[
+"2029-07-04",
+"2029-07-04"
+],
+[
+"2029-07-11",
+"2029-07-11"
+],
+[
+"2029-07-18",
+"2029-07-18"
+],
+[
+"2029-07-25",
+"2029-07-25"
+],
+[
+"2029-08-01",
+"2029-08-01"
+],
+[
+"2029-08-08",
+"2029-08-08"
+],
+[
+"2029-08-15",
+"2029-08-15"
+],
+[
+"2029-08-22",
+"2029-08-22"
+],
+[
+"2029-08-29",
+"2029-08-29"
+],
+[
+"2029-09-05",
+"2029-09-05"
+],
+[
+"2029-09-12",
+"2029-09-12"
+],
+[
+"2029-09-19",
+"2029-09-19"
+],
+[
+"2029-09-26",
+"2029-09-26"
+],
+[
+"2029-10-03",
+"2029-10-03"
+],
+[
+"2029-10-10",
+"2029-10-10"
+],
+[
+"2029-10-17",
+"2029-10-17"
+],
+[
+"2029-10-24",
+"2029-10-24"
+],
+[
+"2029-10-31",
+"2029-10-31"
+],
+[
+"2029-11-07",
+"2029-11-07"
+],
+[
+"2029-11-14",
+"2029-11-14"
+],
+[
+"2029-11-21",
+"2029-11-21"
+],
+[
+"2029-11-28",
+"2029-11-28"
+],
+[
+"2029-12-05",
+"2029-12-05"
+],
+[
+"2029-12-12",
+"2029-12-12"
+],
+[
+"2029-12-19",
+"2029-12-19"
+],
+[
+"2029-12-26",
+"2029-12-26"
+],
+[
+"2030-01-02",
+"2030-01-02"
+],
+[
+"2030-01-09",
+"2030-01-09"
+],
+[
+"2030-01-16",
+"2030-01-16"
+],
+[
+"2030-01-23",
+"2030-01-23"
+],
+[
+"2030-01-30",
+"2030-01-30"
+],
+[
+"2030-02-06",
+"2030-02-06"
+],
+[
+"2030-02-13",
+"2030-02-13"
+],
+[
+"2030-02-20",
+"2030-02-20"
+],
+[
+"2030-02-27",
+"2030-02-27"
+],
+[
+"2030-03-06",
+"2030-03-06"
+],
+[
+"2030-03-13",
+"2030-03-13"
+],
+[
+"2030-03-20",
+"2030-03-20"
+],
+[
+"2030-03-27",
+"2030-03-27"
+],
+[
+"2030-04-03",
+"2030-04-03"
+],
+[
+"2030-04-10",
+"2030-04-10"
+],
+[
+"2030-04-17",
+"2030-04-17"
+],
+[
+"2030-04-24",
+"2030-04-24"
+],
+[
+"2030-05-01",
+"2030-05-01"
+],
+[
+"2030-05-08",
+"2030-05-08"
+],
+[
+"2030-05-15",
+"2030-05-15"
+],
+[
+"2030-05-22",
+"2030-05-22"
+],
+[
+"2030-05-29",
+"2030-05-29"
+],
+[
+"2030-06-05",
+"2030-06-05"
+],
+[
+"2030-06-12",
+"2030-06-12"
+],
+[
+"2030-06-19",
+"2030-06-19"
+],
+[
+"2030-06-26",
+"2030-06-26"
+],
+[
+"2030-07-03",
+"2030-07-03"
+],
+[
+"2030-07-10",
+"2030-07-10"
+],
+[
+"2030-07-17",
+"2030-07-17"
+],
+[
+"2030-07-24",
+"2030-07-24"
+],
+[
+"2030-07-31",
+"2030-07-31"
+],
+[
+"2030-08-07",
+"2030-08-07"
+],
+[
+"2030-08-14",
+"2030-08-14"
+],
+[
+"2030-08-21",
+"2030-08-21"
+],
+[
+"2030-08-28",
+"2030-08-28"
+],
+[
+"2030-09-04",
+"2030-09-04"
+],
+[
+"2030-09-11",
+"2030-09-11"
+],
+[
+"2030-09-18",
+"2030-09-18"
+],
+[
+"2030-09-25",
+"2030-09-25"
+],
+[
+"2030-10-02",
+"2030-10-02"
+],
+[
+"2030-10-09",
+"2030-10-09"
+],
+[
+"2030-10-16",
+"2030-10-16"
+],
+[
+"2030-10-23",
+"2030-10-23"
+],
+[
+"2030-10-30",
+"2030-10-30"
+],
+[
+"2030-11-06",
+"2030-11-06"
+],
+[
+"2030-11-13",
+"2030-11-13"
+],
+[
+"2030-11-20",
+"2030-11-20"
+],
+[
+"2030-11-27",
+"2030-11-27"
+],
+[
+"2030-12-04",
+"2030-12-04"
+],
+[
+"2030-12-11",
+"2030-12-11"
+],
+[
+"2030-12-18",
+"2030-12-18"
+],
+[
+"2030-12-25",
+"2030-12-25"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Concert Christelle Loury",
+"commune": "Époisses",
+"km": 10,
+"periodes": [
+[
+"2026-11-06",
+"2026-11-06"
+]
+],
+"types": [
+"Concert"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier parentalité bien être",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-06",
+"2026-11-06"
+]
+],
+"types": [
+"Enfants",
+"Sport",
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Légumes de saison et épicerie locale",
+"commune": "Perrigny-sur-Armançon",
+"km": 14,
+"periodes": [
+[
+"2026-11-06",
+"2026-11-06"
+],
+[
+"2026-11-13",
+"2026-11-13"
+],
+[
+"2026-11-20",
+"2026-11-20"
+],
+[
+"2026-11-27",
+"2026-11-27"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Dictée intergénérationnelle",
+"commune": "Époisses",
+"km": 8,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Grande soirée magique",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/grande-soiree-magique",
+"resume": ""
+},
+{
+"titre": "Comédie mode d'emploi : The big Lebowski",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
+"resume": ""
+},
+{
+"titre": "Table ronde et atelier",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Exposition",
+"Atelier"
+],
+"lien": "https://framaforms.org/inscription-table-ronde-et-atelier-samedi-7-nov-2026-1791800725",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Spectacle jeune public",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Close-up en continu",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
+"resume": ""
+},
+{
+"titre": "Atelier de kinésiologie ludique® - Précy",
+"commune": "Précy-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+],
+[
+"2026-12-12",
+"2026-12-12"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://form.jotform.com/253305979386370",
+"resume": ""
+},
+{
+"titre": "Week end Santé Gourmande",
+"commune": "Darcey",
+"km": 21,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-08"
+],
+[
+"2027-01-30",
+"2027-01-31"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Cin'Échanges / Les Misérables",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/cinechanges--les-miserables-4146",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Spectacle de mentalisme",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/en-toute-apparence-spectacle-de-mentalisme",
+"resume": ""
+},
+{
+"titre": "Bain de Gongs - dans le ventre de la Nuit, nouvelle lune en Scorpion",
+"commune": "Époisses",
+"km": 10,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://www.joia-maisondejoie.fr/",
+"resume": ""
+},
+{
+"titre": "Bourse aux jouets & puériculture",
+"commune": "Vic-de-Chassenay",
+"km": 10,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Vente"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Nettoyage des berges du Lac de Pont",
+"commune": "Pont-et-Massène",
+"km": 12,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Marché des créateurs et des producteurs locaux",
+"commune": "Aisy-sous-Thil",
+"km": 19,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Lundi du Doc / Retour au Collège",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-09",
+"2026-11-09"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/lundi-du-doc---retour-au-college-4026",
+"resume": ""
+},
+{
+"titre": "Ann & Mary",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-12",
+"2026-11-12"
+]
+],
+"types": [
+"Spectacle",
+"Théâtre"
+],
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/ann-mary",
+"resume": ""
+},
+{
+"titre": "Festival TAPAGE #3 !",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-13",
+"2026-11-15"
+]
+],
+"types": [
+"Enfants"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Dans le cadre de TAPAGE #3 : Spectacle \"MAINS\"",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Spectacle",
+"Théâtre"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Bal des lucioles",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Enfants",
+"Festival"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Un mois, une oeuvre",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Festival TAPAGE #3 : Cine-Ponti",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Cinéma",
+"Spectacle"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Atelier aquarelle",
+"commune": "Semur-en-Auxois",
+"km": 10,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+],
+[
+"2026-11-28",
+"2026-11-28"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Novembre en douceur",
+"commune": "Massingy-lès-Semur",
+"km": 11,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://www.facebook.com/lesanessesdelacotedupuits",
+"resume": ""
+},
+{
+"titre": "Spectacle Le cirque, la vie et tout le reste de et par Gulko",
+"commune": "Montréal",
+"km": 19,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "https://www.helloasso.com/associations/association-chateau-de-monthelon/evenements/nuit-du-cirque-de-monthelon-2026",
+"resume": ""
+},
+{
+"titre": "Soirée théâtre \"c'est pas clerc\"",
+"commune": "Magny",
+"km": 25,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+],
+[
+"2026-11-15",
+"2026-11-15"
+]
+],
+"types": [
+"Théâtre"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Festival TAPAGE #3 : \"Comment naissent les histoires ?\"",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-15",
+"2026-11-15"
+]
+],
+"types": [
+"Enfants",
+"Spectacle",
+"Théâtre"
+],
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/comment-naissent-les-histoires",
+"resume": ""
+},
+{
+"titre": "Impermanence",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
+"commune": "Marmagne",
+"km": 9,
+"periodes": [
+[
+"2026-11-16",
+"2027-02-16"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://www.abbayedefontenay.com/",
+"resume": ""
+},
+{
+"titre": "Séance cinéma \"Les misérables\"",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-17",
+"2026-11-17"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Concours de reproducteurs de Charolais",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-18",
+"2026-11-19"
+]
+],
+"types": [
+"Exposition",
+"Vente"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "GRÉGOIRE COURTOIS, L'ENFANT GRISE",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-20",
+"2026-11-20"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Gratiferia",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-21",
+"2026-11-21"
+]
+],
+"types": [
+"Vide-grenier",
+"Vente"
+],
+"lien": "https://www.labaux.org/gratiferia",
+"resume": ""
+},
+{
+"titre": "Book Club - La Femme de ménage",
+"commune": "Précy-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2026-11-21",
+"2026-11-21"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Concert Voce Vita",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-22",
+"2026-11-22"
+]
+],
+"types": [
+"Concert"
+],
+"lien": "https://www.terres-auxois.fr/billetterie-en-ligne/",
+"resume": ""
+},
+{
+"titre": "Hors Saison Musicale : Le duo des Frères Bouclier en concert !",
+"commune": "Fontaines-en-Duesmois",
+"km": 22,
+"periodes": [
+[
+"2026-11-22",
+"2026-11-22"
+]
+],
+"types": [
+"Concert"
+],
+"lien": "https://horssaisonmusicale.fr/events/event/trio-double-b-en-concert-a-darcey-21/",
+"resume": ""
+},
+{
+"titre": "Marché de Noël",
+"commune": "Provency",
+"km": 25,
+"periodes": [
+[
+"2026-11-22",
+"2026-11-22"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier : Salle de bain à zéro plastique et économique",
+"commune": "Nan-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2026-11-25",
+"2026-11-25"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://gestesdor.cotedor.fr/",
+"resume": ""
+},
+{
+"titre": "Concert avec Les sans voix de la Douix",
+"commune": "Venarey-les-Laumes",
+"km": 13,
+"periodes": [
+[
+"2026-11-27",
+"2026-11-27"
+]
+],
+"types": [
+"Concert"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier découverte des plantes médicinales alliées de la ménopause",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-28",
+"2026-11-28"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://www.facebook.com/lespetitesherbesdodette",
+"resume": ""
+},
+{
+"titre": "Exposition de crèches et féerie de Noël 2026",
+"commune": "Flavigny-sur-Ozerain",
+"km": 19,
+"periodes": [
+[
+"2026-11-28",
+"2027-01-10"
+]
+],
+"types": [
+"Exposition",
+"Enfants",
+"Fête"
+],
+"lien": "https://flavignyanimations.wordpress.com/les-animations/lexposition-de-creches/",
+"resume": ""
+},
+{
+"titre": "Cercle de Pardon",
+"commune": "Époisses",
+"km": 8,
+"periodes": [
+[
+"2026-11-29",
+"2026-11-29"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "UN MOMENT THEATRE",
+"commune": "La Roche-en-Brenil",
+"km": 22,
+"periodes": [
+[
+"2026-11-29",
+"2026-11-29"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Rencontre autour de l'époisses",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-12-04",
+"2026-12-04"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Formation Premiers Secours",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-12-05",
+"2026-12-05"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://inscription-formation.croix-rouge.fr/inscription-1",
+"resume": ""
+},
+{
+"titre": "Visite nocturne avec illuminations et apéritif à l'Abbaye de Fontenay",
+"commune": "Marmagne",
+"km": 12,
+"periodes": [
+[
+"2026-12-05",
+"2026-12-05"
+],
+[
+"2026-12-19",
+"2026-12-19"
+]
+],
+"types": [],
+"lien": "https://www.abbayedefontenay.com/",
+"resume": ""
+},
+{
+"titre": "À la découverte du milan royal et des actions menées en sa faveur",
+"commune": "Pouillenay",
+"km": 15,
+"periodes": [
+[
+"2026-12-05",
+"2026-12-05"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Portes Ouvertes au Domaine Boussard",
+"commune": "Nitry",
+"km": 24,
+"periodes": [
+[
+"2026-12-05",
+"2026-12-06"
+]
+],
+"types": [
+"Vente"
+],
+"lien": "https://www.domaine-boussard-chablis.fr/",
+"resume": ""
+},
+{
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-06",
+"2026-12-06"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Dicklove",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-12-10",
+"2026-12-10"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/dicklove",
+"resume": ""
+},
+{
+"titre": "Visites guidées aux flambeaux à l'Abbaye de Fontenay - Noël 2026",
+"commune": "Marmagne",
+"km": 10,
+"periodes": [
+[
+"2026-12-12",
+"2026-12-12"
+],
+[
+"2026-12-13",
+"2026-12-13"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "https://www.abbayedefontenay.com/reserver-en-ligne/billetterie-evenements",
+"resume": ""
+},
+{
+"titre": "Marché de Noël de l'Abbaye de Fontenay 2026",
+"commune": "Marmagne",
+"km": 12,
+"periodes": [
+[
+"2026-12-12",
+"2026-12-13"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Marché de Noël 2026 à Flavigny-sur-Ozerain",
+"commune": "Flavigny-sur-Ozerain",
+"km": 19,
+"periodes": [
+[
+"2026-12-12",
+"2026-12-13"
+]
+],
+"types": [
+"Vente",
+"Marché",
+"Fête"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Marché de Noël - Les pirates du Père Noël",
+"commune": "Argenteuil-sur-Armançon",
+"km": 25,
+"periodes": [
+[
+"2026-12-12",
+"2026-12-13"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "https://www.facebook.com/LesAmisDArgenteuilSurArmancon/",
+"resume": ""
+},
+{
+"titre": "Train du Père Noël",
+"commune": "Massangis",
+"km": 24,
+"periodes": [
+[
+"2026-12-13",
+"2026-12-13"
+]
+],
+"types": [
+"Enfants"
+],
+"lien": "http://www.lepetittraindelyonne.fr/",
+"resume": ""
+},
+{
+"titre": "Dans ma coquille",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-12-18",
+"2026-12-18"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/dans-ma-coquille",
+"resume": ""
+},
+{
+"titre": "Noël avec les ânes",
+"commune": "Massingy-lès-Semur",
+"km": 11,
+"periodes": [
+[
+"2026-12-19",
+"2026-12-19"
+]
+],
+"types": [
+"Enfants"
+],
+"lien": "https://www.facebook.com/lesanessesdelacotedupuits",
+"resume": ""
+},
+{
+"titre": "Visites commentées du château de Bussy-Rabutin",
+"commune": "Bussy-le-Grand",
+"km": 18,
+"periodes": [
+[
+"2026-12-19",
+"2027-01-03"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "https://tickets.monuments-nationaux.fr/fr-FR/familles?site=2015384433810400027",
+"resume": ""
+},
+{
+"titre": "Soirée repas réveillon du nouvel an",
+"commune": "Darcey",
+"km": 22,
+"periodes": [
+[
+"2026-12-31",
+"2026-12-31"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Week-end lancer son projet de transition",
+"commune": "Darcey",
+"km": 21,
+"periodes": [
+[
+"2027-01-23",
+"2027-01-24"
+],
+[
+"2027-03-20",
+"2027-03-21"
+],
+[
+"2027-05-22",
+"2027-05-23"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Le Garage à Papa",
+"commune": "Rouvray",
+"km": 20,
+"periodes": [
+[
+"2027-03-06",
+"2027-03-06"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "On vous raconte des histoires",
+"commune": "Précy-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2027-04-03",
+"2027-04-03"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Back to 50’s",
+"commune": "Alise-Sainte-Reine",
+"km": 16,
+"periodes": [
+[
+"2027-06-05",
+"2027-06-05"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "TapTaGrol",
+"commune": "Montbard",
+"km": 8,
+"periodes": [
+[
+"2027-06-12",
+"2027-06-12"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Kikiristani’s Fantasy",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2027-06-20",
+"2027-06-20"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "La Belle Suzon",
+"commune": "Saint-Germain-de-Modéon",
+"km": 21,
+"periodes": [
+[
+"2027-06-21",
+"2027-06-21"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Le Garage à Papa",
+"commune": "Clamerey",
+"km": 20,
+"periodes": [
+[
+"2027-06-23",
+"2027-06-23"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Back to 50’s",
+"commune": "Précy-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2027-06-26",
+"2027-06-26"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "",
+"resume": ""
+}
+]
+}

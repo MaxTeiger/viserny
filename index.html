@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>La maison de Viserny</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏡</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="haut">
+    <h1>La maison de Viserny</h1>
+    <p>Auxois, Côte-d'Or</p>
+  </header>
+
+  <nav class="menu">
+    <a href="#meteo">Météo</a>
+    <a href="#evenements">Sorties</a>
+    <a href="consignes.html#ouvrir">Ouvrir</a>
+    <a href="consignes.html#fermer">Fermer</a>
+  </nav>
+
+  <main>
+    <section id="meteo">
+      <h2>Météo à Viserny</h2>
+      <div class="carte" id="meteo-contenu"><p class="discret">Chargement…</p></div>
+    </section>
+
+    <section id="evenements">
+      <h2>Sorties à moins de 25 km</h2>
+      <div class="carte">
+        <div id="evenements-liste"><p class="discret">Chargement…</p></div>
+        <button class="plus" id="evenements-plus" hidden>Afficher plus</button>
+        <details class="en-cours" id="en-cours" hidden>
+          <summary>En ce moment (expositions, saisons…)</summary>
+          <div id="en-cours-liste"></div>
+        </details>
+      </div>
+      <p class="discret" id="evenements-source"></p>
+    </section>
+
+    <section id="maison">
+      <h2>La maison</h2>
+      <div class="tuiles">
+        <a class="carte tuile" href="consignes.html#ouvrir"><span>🔑</span>Ouvrir la maison</a>
+        <a class="carte tuile" href="consignes.html#fermer"><span>🔒</span>Fermer la maison</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Météo : <a href="https://open-meteo.com/">Open-Meteo</a> ·
+    Sorties : <a href="https://www.datatourisme.fr/">DATAtourisme</a> (offices de tourisme de Côte-d'Or), Licence Ouverte
+  </footer>
+
+  <script>
+    const LAT = 47.5633, LON = 4.2836;
+    const JOURS = ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."];
+    const MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
+
+    // Codes météo WMO → icône + libellé
+    function temps(code) {
+      if (code === 0) return ["☀️", "Ensoleillé"];
+      if (code <= 2) return ["🌤️", "Éclaircies"];
+      if (code === 3) return ["☁️", "Couvert"];
+      if (code <= 48) return ["🌫️", "Brouillard"];
+      if (code <= 57) return ["🌦️", "Bruine"];
+      if (code <= 67) return ["🌧️", "Pluie"];
+      if (code <= 77) return ["🌨️", "Neige"];
+      if (code <= 82) return ["🌦️", "Averses"];
+      if (code <= 86) return ["🌨️", "Averses de neige"];
+      return ["⛈️", "Orage"];
+    }
+
+    function el(tag, classe, texte) {
+      const e = document.createElement(tag);
+      if (classe) e.className = classe;
+      if (texte !== undefined) e.textContent = texte;
+      return e;
+    }
+
+    function dateLocale(iso) {
+      const [a, m, j] = iso.split("-").map(Number);
+      return new Date(a, m - 1, j);
+    }
+
+    function isoLocal(d) {
+      return [d.getFullYear(), String(d.getMonth() + 1).padStart(2, "0"), String(d.getDate()).padStart(2, "0")].join("-");
+    }
+
+    async function meteo() {
+      const boite = document.getElementById("meteo-contenu");
+      const url = "https://api.open-meteo.com/v1/forecast?latitude=" + LAT + "&longitude=" + LON +
+        "&current=temperature_2m,weather_code,wind_speed_10m" +
+        "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max" +
+        "&timezone=Europe%2FParis&forecast_days=7";
+      try {
+        const r = await fetch(url);
+        if (!r.ok) throw new Error(r.status);
+        const d = await r.json();
+        boite.replaceChildren();
+
+        const [icone, libelle] = temps(d.current.weather_code);
+        const maintenant = el("div", "meteo-maintenant");
+        maintenant.append(el("span", "icone", icone));
+        const txt = el("div");
+        txt.append(el("div", "temp", Math.round(d.current.temperature_2m) + " °C"));
+        txt.append(el("div", "discret", libelle + " · vent " + Math.round(d.current.wind_speed_10m) + " km/h"));
+        maintenant.append(txt);
+        boite.append(maintenant);
+
+        const jours = el("div", "jours");
+        const gels = [];
+        d.daily.time.forEach((t, i) => {
+          const date = dateLocale(t);
+          const min = Math.round(d.daily.temperature_2m_min[i]);
+          const j = el("div", "jour" + (min <= 0 ? " gel" : ""));
+          j.append(el("div", "nom", i === 0 ? "Auj." : JOURS[date.getDay()] + " " + date.getDate()));
+          j.append(el("div", "icone", temps(d.daily.weather_code[i])[0]));
+          j.title = temps(d.daily.weather_code[i])[1];
+          const temp = el("div");
+          temp.append(el("span", "max", Math.round(d.daily.temperature_2m_max[i]) + "°"), " ", el("span", "min", min + "°"));
+          j.append(temp);
+          const pluie = d.daily.precipitation_probability_max[i];
+          if (pluie >= 20) j.append(el("div", "pluie", "💧 " + pluie + " %"));
+          jours.append(j);
+          if (min <= 0) gels.push(i === 0 ? "aujourd'hui" : JOURS[date.getDay()] + " " + date.getDate());
+        });
+        boite.append(jours);
+
+        if (gels.length) {
+          boite.append(el("div", "alerte-gel",
+            "❄️ Gel prévu (" + gels.join(", ") + ") : en partant, pensez à vidanger l'eau (voir « Fermer la maison »)."));
+        }
+      } catch (e) {
+        boite.replaceChildren(el("p", "discret", "Météo indisponible pour le moment."));
+      }
+    }
+
+    function carteEvenement(e, date, fin) {
+      const ligne = el("article", "evenement");
+      const badge = el("div", "date");
+      badge.append(el("span", "s", JOURS[date.getDay()]), el("span", "j", date.getDate()), el("span", "m", MOIS[date.getMonth()]));
+      ligne.append(badge);
+
+      const corps = el("div");
+      const titre = el("h3");
+      if (e.lien) {
+        const a = el("a", "", e.titre);
+        a.href = e.lien;
+        a.target = "_blank";
+        a.rel = "noopener";
+        titre.append(a);
+      } else {
+        titre.textContent = e.titre;
+      }
+      corps.append(titre);
+
+      let ou = e.commune + " · " + e.km + " km";
+      if (fin > isoLocal(date)) {
+        const f = dateLocale(fin);
+        ou += " · jusqu'au " + f.getDate() + " " + MOIS[f.getMonth()];
+      }
+      const autres = e.periodes.length - 1;
+      if (autres > 10) ou += " · régulièrement";
+      else if (autres > 0) ou += " · et " + autres + " autre" + (autres > 1 ? "s" : "") + " date" + (autres > 1 ? "s" : "");
+      corps.append(el("div", "ou", ou));
+      if (e.resume) corps.append(el("p", "resume", e.resume));
+      e.types.forEach(t => corps.append(el("span", "etiquette", t)));
+      ligne.append(corps);
+      return ligne;
+    }
+
+    async function evenements() {
+      const liste = document.getElementById("evenements-liste");
+      const plus = document.getElementById("evenements-plus");
+      try {
+        const r = await fetch("events.json", { cache: "no-cache" });
+        if (!r.ok) throw new Error(r.status);
+        const d = await r.json();
+        const auj = isoLocal(new Date());
+        const aVenir = [], enCours = [];
+
+        for (const e of d.evenements) {
+          e.periodes = e.periodes.filter(p => p[1] >= auj);
+          if (!e.periodes.length) continue;
+          const [debut, fin] = e.periodes[0];
+          const longue = (dateLocale(fin) - dateLocale(debut)) / 864e5 > 7;
+          if (debut < auj && longue) enCours.push([e, dateLocale(auj), fin]);
+          else aVenir.push([e, dateLocale(debut < auj ? auj : debut), fin]);
+        }
+        aVenir.sort((a, b) => a[1] - b[1] || a[0].km - b[0].km);
+        enCours.sort((a, b) => a[0].km - b[0].km);
+
+        liste.replaceChildren();
+        if (!aVenir.length) liste.append(el("p", "discret", "Rien de prévu pour le moment."));
+        let affiches = 0;
+        function suite() {
+          aVenir.slice(affiches, affiches + 15).forEach(x => liste.append(carteEvenement(...x)));
+          affiches += 15;
+          plus.hidden = affiches >= aVenir.length;
+        }
+        plus.onclick = suite;
+        suite();
+
+        if (enCours.length) {
+          const boite = document.getElementById("en-cours-liste");
+          enCours.forEach(x => boite.append(carteEvenement(...x)));
+          document.getElementById("en-cours").hidden = false;
+        }
+
+        const m = dateLocale(d.maj);
+        document.getElementById("evenements-source").textContent =
+          "Agenda des offices de tourisme, mis à jour le " + m.getDate() + " " + MOIS[m.getMonth()] + " " + m.getFullYear() + ".";
+      } catch (e) {
+        liste.replaceChildren(el("p", "discret", "Agenda indisponible pour le moment."));
+      }
+    }
+
+    meteo();
+    evenements();
+  </script>
+</body>
+</html>

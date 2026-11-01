@@ -1,0 +1,214 @@
+:root {
+  --fond: #f8f4ec;
+  --carte: #fffdf8;
+  --texte: #2b2622;
+  --doux: #6f655b;
+  --vin: #7b2d3b;
+  --vin-clair: #f3e4e4;
+  --pierre: #e6ded1;
+  --gel: #2b6cb0;
+  --a-faire: #b7791f;
+  --rayon: 14px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; scroll-padding-top: 4rem; }
+
+body {
+  margin: 0;
+  font: 17px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--texte);
+  background: var(--fond);
+}
+
+h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.2; }
+
+a { color: var(--vin); }
+
+header.haut {
+  background: var(--vin);
+  color: #fff;
+  padding: 2rem 1rem 1.5rem;
+  text-align: center;
+}
+header.haut h1 { margin: 0; font-size: 2rem; }
+header.haut p { margin: .3rem 0 0; opacity: .85; }
+
+nav.menu {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  gap: .3rem;
+  padding: .5rem;
+  background: var(--fond);
+  border-bottom: 1px solid var(--pierre);
+  overflow-x: auto;
+}
+nav.menu a {
+  padding: .35rem .8rem;
+  border-radius: 999px;
+  text-decoration: none;
+  white-space: nowrap;
+  font-weight: 600;
+}
+nav.menu a:hover, nav.menu a[aria-current] { background: var(--vin-clair); }
+
+main { max-width: 760px; margin: 0 auto; padding: 1rem; }
+
+section { margin: 1.5rem 0 2.5rem; }
+section > h2 { margin: 0 0 .8rem; font-size: 1.6rem; color: var(--vin); }
+
+.carte {
+  background: var(--carte);
+  border: 1px solid var(--pierre);
+  border-radius: var(--rayon);
+  padding: 1rem;
+}
+
+.discret { color: var(--doux); font-size: .9rem; }
+
+/* Météo */
+.meteo-maintenant { display: flex; align-items: center; gap: 1rem; margin-bottom: .8rem; }
+.meteo-maintenant .icone { font-size: 3rem; }
+.meteo-maintenant .temp { font-size: 2.2rem; font-weight: 700; }
+.jours {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(4.6rem, 1fr));
+  gap: .4rem;
+  overflow-x: auto;
+}
+.jour { text-align: center; padding: .6rem .2rem; border-radius: 10px; background: var(--fond); }
+.jour .nom { font-weight: 600; font-size: .9rem; }
+.jour .icone { font-size: 1.7rem; }
+.jour .max { font-weight: 700; }
+.jour .min { color: var(--doux); }
+.jour .pluie { font-size: .8rem; color: var(--gel); }
+.jour.gel { box-shadow: inset 0 0 0 2px var(--gel); }
+.alerte-gel {
+  margin-top: .8rem;
+  padding: .6rem .8rem;
+  border-radius: 10px;
+  background: #e8f1fb;
+  color: #1d4f85;
+}
+
+/* Événements */
+.evenement { display: flex; gap: .9rem; padding: .8rem 0; border-top: 1px solid var(--pierre); }
+.evenement:first-child { border-top: 0; }
+.date {
+  flex: 0 0 3.6rem;
+  text-align: center;
+  background: var(--vin-clair);
+  color: var(--vin);
+  border-radius: 10px;
+  padding: .35rem 0;
+  align-self: flex-start;
+  line-height: 1.15;
+}
+.date .j { display: block; font-size: 1.4rem; font-weight: 700; }
+.date .m, .date .s { display: block; font-size: .75rem; text-transform: uppercase; }
+.evenement h3 { margin: 0; font-size: 1.05rem; font-family: inherit; }
+.evenement .ou { color: var(--doux); font-size: .9rem; }
+.evenement .resume { margin: .2rem 0 0; font-size: .9rem; }
+.etiquette {
+  display: inline-block;
+  font-size: .75rem;
+  padding: .05rem .5rem;
+  margin: .25rem .25rem 0 0;
+  border-radius: 999px;
+  background: var(--pierre);
+}
+details.en-cours { margin-top: 1rem; }
+details.en-cours summary { cursor: pointer; font-weight: 600; color: var(--vin); }
+button.plus {
+  display: block;
+  margin: 1rem auto 0;
+  padding: .55rem 1.2rem;
+  font: inherit;
+  font-weight: 600;
+  color: var(--vin);
+  background: var(--carte);
+  border: 1px solid var(--vin);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+/* Consignes */
+.tuiles { display: grid; grid-template-columns: 1fr 1fr; gap: .8rem; }
+.tuile {
+  display: block;
+  padding: 1.2rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  color: var(--texte);
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.tuile span { display: block; font-size: 2.2rem; }
+
+ol.etapes { list-style: none; counter-reset: etape; padding: 0; margin: 0; }
+ol.etapes > li {
+  counter-increment: etape;
+  position: relative;
+  padding: 1rem 1rem 1rem 3.6rem;
+  margin-bottom: .8rem;
+  background: var(--carte);
+  border: 1px solid var(--pierre);
+  border-radius: var(--rayon);
+}
+ol.etapes > li::before {
+  content: counter(etape);
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  width: 1.9rem;
+  height: 1.9rem;
+  border-radius: 50%;
+  background: var(--vin);
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.9rem;
+}
+ol.etapes h3 { margin: .1rem 0 .4rem; font-size: 1.15rem; }
+ol.etapes p { margin: .3rem 0; }
+figure { margin: .6rem 0 0; }
+figure img { width: 100%; border-radius: 10px; display: block; }
+figure figcaption { font-size: .85rem; color: var(--doux); margin-top: .3rem; }
+
+/* Zones encore à compléter : bien visibles tant que le texte n'est pas écrit */
+.a-completer {
+  border-left: 4px solid var(--a-faire);
+  background: #fdf5e6;
+  padding: .4rem .7rem;
+  border-radius: 0 8px 8px 0;
+}
+figure.photo-a-ajouter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 7rem;
+  padding: 1rem;
+  text-align: center;
+  border: 2px dashed var(--a-faire);
+  border-radius: 10px;
+  color: var(--a-faire);
+  font-size: .9rem;
+}
+.encadre {
+  padding: .8rem 1rem;
+  border-radius: var(--rayon);
+  background: #e8f1fb;
+  color: #1d4f85;
+  margin-bottom: 1rem;
+}
+
+footer { text-align: center; padding: 2rem 1rem 3rem; color: var(--doux); font-size: .85rem; }
+
+@media (max-width: 520px) {
+  body { font-size: 16px; }
+  header.haut h1 { font-size: 1.7rem; }
+}
