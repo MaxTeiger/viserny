@@ -140,6 +140,7 @@ button.plus {
 
 /* Consignes */
 .tuiles { display: grid; grid-template-columns: 1fr 1fr; gap: .8rem; }
+.tuiles a:last-child:nth-child(odd) { grid-column: 1 / -1; }
 .tuile {
   display: block;
   padding: 1.2rem 1rem;
@@ -262,4 +263,14 @@ ol.etapes.puces > li::before { content: ""; width: .8rem; height: .8rem; top: 1.
   li.chaudiere { break-inside: auto; }
   .photo-reperes { max-width: 150mm; }
   * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+
+/* Contacts */
+a.tel { font-size: 1.25rem; font-weight: 700; text-decoration: none; }
+a.tel::before { content: "📞 "; font-size: 1rem; }
+table.horaires { border-collapse: collapse; margin: .6rem 0; font-size: .9rem; width: 100%; }
+table.horaires th, table.horaires td { border: 1px solid var(--pierre); padding: .35rem .5rem; text-align: left; vertical-align: top; }
+table.horaires thead th { background: var(--fond); font-weight: 600; }
+@media print {
+  #contacts { break-before: page; }
 }
