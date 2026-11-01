@@ -17,8 +17,9 @@
   <nav class="menu">
     <a href="#meteo">Météo</a>
     <a href="#evenements">Sorties</a>
-    <a href="consignes.html#ouvrir">Ouvrir</a>
-    <a href="consignes.html#fermer">Fermer</a>
+    <a href="consignes.html#ouvrir">Arrivée</a>
+    <a href="consignes.html#sejour">Séjour</a>
+    <a href="consignes.html#fermer">Départ</a>
   </nav>
 
   <main>
@@ -43,8 +44,10 @@
     <section id="maison">
       <h2>La maison</h2>
       <div class="tuiles">
-        <a class="carte tuile" href="consignes.html#ouvrir"><span>🔑</span>Ouvrir la maison</a>
-        <a class="carte tuile" href="consignes.html#fermer"><span>🔒</span>Fermer la maison</a>
+        <a class="carte tuile" href="consignes.html#ouvrir"><span>🔑</span>À l'arrivée</a>
+        <a class="carte tuile" href="consignes.html#fermer"><span>🔒</span>Au départ</a>
+        <a class="carte tuile" href="consignes.html#sejour"><span>🏡</span>Pendant le séjour</a>
+        <a class="carte tuile" href="consignes.pdf"><span>🖨️</span>Tout en PDF</a>
       </div>
     </section>
   </main>
@@ -131,7 +134,7 @@
 
         if (gels.length) {
           boite.append(el("div", "alerte-gel",
-            "❄️ Gel prévu (" + gels.join(", ") + ") : en partant, pensez à vidanger l'eau (voir « Fermer la maison »)."));
+            "❄️ Gel prévu (" + gels.join(", ") + ") : en partant, pensez à vidanger l'eau et à mettre la chaudière en hors-gel (voir « Au départ »)."));
         }
       } catch (e) {
         boite.replaceChildren(el("p", "discret", "Météo indisponible pour le moment."));

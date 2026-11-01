@@ -40,7 +40,6 @@ nav.menu {
   top: 0;
   z-index: 10;
   display: flex;
-  justify-content: center;
   gap: .3rem;
   padding: .5rem;
   background: var(--fond);
@@ -55,6 +54,9 @@ nav.menu a {
   font-weight: 600;
 }
 nav.menu a:hover, nav.menu a[aria-current] { background: var(--vin-clair); }
+/* Centré quand ça tient, défilable sans couper le premier lien sinon */
+nav.menu a:first-child { margin-left: auto; }
+nav.menu a:last-child { margin-right: auto; }
 
 main { max-width: 760px; margin: 0 auto; padding: 1rem; }
 
@@ -211,4 +213,53 @@ footer { text-align: center; padding: 2rem 1rem 3rem; color: var(--doux); font-s
 @media (max-width: 520px) {
   body { font-size: 16px; }
   header.haut h1 { font-size: 1.7rem; }
+  nav.menu { gap: 0; }
+  nav.menu a { padding: .35rem .55rem; }
+  /* Photo de la chaudière en pleine largeur de la carte */
+  li.chaudiere figure { margin-left: -2.6rem; }
+  .repere { width: 1.15rem; height: 1.15rem; font-size: .65rem; line-height: .85rem; border-width: 1.5px; }
+}
+
+/* Photo de la chaudière avec repères numérotés */
+.photo-reperes { position: relative; }
+.photo-reperes img { width: 100%; border-radius: 10px; display: block; }
+.repere, ol.legende > li::before {
+  width: 1.45rem;
+  height: 1.45rem;
+  border-radius: 50%;
+  background: #ffd400;
+  color: #000;
+  border: 2px solid #000;
+  font-weight: 800;
+  font-size: .8rem;
+  line-height: 1.2rem;
+  text-align: center;
+}
+.repere { position: absolute; transform: translate(-50%, -50%); }
+ol.legende { list-style: none; counter-reset: repere; padding: 0; margin: .8rem 0 0; }
+ol.legende > li { counter-increment: repere; position: relative; padding-left: 2.1rem; margin: .5rem 0; }
+ol.legende > li::before { content: counter(repere); position: absolute; left: 0; top: .05rem; }
+
+/* Rubriques « Pendant le séjour » : pastilles au lieu de numéros */
+ol.etapes.puces > li::before { content: ""; width: .8rem; height: .8rem; top: 1.45rem; left: 1.5rem; }
+
+/* Impression / PDF */
+@media print {
+  @page { size: A4; margin: 14mm 14mm 16mm; }
+  body { font-size: 10.5pt; background: #fff; }
+  nav.menu, footer { display: none; }
+  header.haut { padding: 0 0 4mm; background: none; color: var(--vin); border-bottom: 2px solid var(--vin); }
+  header.haut h1 { font-size: 20pt; }
+  main { max-width: none; padding: 0; }
+  section { margin: 6mm 0 0; }
+  #sejour, #fermer { break-before: page; }
+  section > h2 { font-size: 16pt; break-after: avoid; }
+  ol.etapes > li { break-inside: avoid; padding: 3mm 4mm 3mm 13mm; margin-bottom: 2.5mm; }
+  ol.etapes > li::before { left: 3.5mm; top: 3mm; }
+  ol.etapes.puces > li::before { left: 5mm; top: 5mm; }
+  ol.etapes h3 { font-size: 12pt; }
+  .encadre { break-inside: avoid; }
+  li.chaudiere { break-inside: auto; }
+  .photo-reperes { max-width: 150mm; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 }
