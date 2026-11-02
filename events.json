@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-01",
+"maj": "2026-11-02",
 "rayon_km": 25,
 "evenements": [
 {
@@ -1284,7 +1284,7 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Spectacle jeune public",
+"titre": "Festival Vive la magie - Close-up en continu",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1301,7 +1301,7 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Close-up en continu",
+"titre": "Festival Vive la magie - Spectacle jeune public",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1500,6 +1500,23 @@
 "resume": ""
 },
 {
+"titre": "Bal des lucioles",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Enfants",
+"Festival"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
 "titre": "Dans le cadre de TAPAGE #3 : Spectacle \"MAINS\"",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1517,7 +1534,7 @@
 "resume": ""
 },
 {
-"titre": "Bal des lucioles",
+"titre": "Festival TAPAGE #3 : Cine-Ponti",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1527,8 +1544,8 @@
 ]
 ],
 "types": [
-"Enfants",
-"Festival"
+"Cinéma",
+"Spectacle"
 ],
 "lien": "https://festivaltapage.fr/",
 "resume": ""
@@ -1547,23 +1564,6 @@
 "Visite"
 ],
 "lien": "",
-"resume": ""
-},
-{
-"titre": "Festival TAPAGE #3 : Cine-Ponti",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Cinéma",
-"Spectacle"
-],
-"lien": "https://festivaltapage.fr/",
 "resume": ""
 },
 {
@@ -1657,22 +1657,6 @@
 "resume": ""
 },
 {
-"titre": "Impermanence",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "http://www.laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Georges",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -1686,6 +1670,22 @@
 "Exposition"
 ],
 "lien": "https://laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Impermanence",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "http://www.laporcherie.com/",
 "resume": ""
 },
 {
@@ -2010,20 +2010,6 @@
 "resume": ""
 },
 {
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-06",
-"2026-12-06"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "Dicklove",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -2171,6 +2157,20 @@
 "Visite"
 ],
 "lien": "https://tickets.monuments-nationaux.fr/fr-FR/familles?site=2015384433810400027",
+"resume": ""
+},
+{
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-20",
+"2026-12-20"
+]
+],
+"types": [],
+"lien": "",
 "resume": ""
 },
 {
