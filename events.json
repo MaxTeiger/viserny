@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-02",
+"maj": "2026-11-03",
 "rayon_km": 25,
 "evenements": [
 {
@@ -1234,6 +1234,22 @@
 "resume": ""
 },
 {
+"titre": "Comédie mode d'emploi : The big Lebowski",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
+"resume": ""
+},
+{
 "titre": "Festival Vive la magie - Grande soirée magique",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1251,7 +1267,7 @@
 "resume": ""
 },
 {
-"titre": "Comédie mode d'emploi : The big Lebowski",
+"titre": "Festival Vive la magie - Spectacle jeune public",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1261,26 +1277,10 @@
 ]
 ],
 "types": [
-"Cinéma"
+"Enfants",
+"Spectacle"
 ],
-"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
-"resume": ""
-},
-{
-"titre": "Table ronde et atelier",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Exposition",
-"Atelier"
-],
-"lien": "https://framaforms.org/inscription-table-ronde-et-atelier-samedi-7-nov-2026-1791800725",
+"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
 "resume": ""
 },
 {
@@ -1301,7 +1301,7 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Spectacle jeune public",
+"titre": "Table ronde et atelier",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1311,10 +1311,10 @@
 ]
 ],
 "types": [
-"Enfants",
-"Spectacle"
+"Exposition",
+"Atelier"
 ],
-"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
+"lien": "https://framaforms.org/inscription-table-ronde-et-atelier-samedi-7-nov-2026-1791800725",
 "resume": ""
 },
 {
@@ -1657,22 +1657,6 @@
 "resume": ""
 },
 {
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Impermanence",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -1686,6 +1670,22 @@
 "Exposition"
 ],
 "lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
 "resume": ""
 },
 {
@@ -2165,8 +2165,8 @@
 "km": 21,
 "periodes": [
 [
-"2026-12-20",
-"2026-12-20"
+"2026-12-27",
+"2026-12-27"
 ]
 ],
 "types": [],
