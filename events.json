@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-03",
+"maj": "2026-11-04",
 "rayon_km": 25,
 "evenements": [
 {
@@ -114,6 +114,20 @@
 "resume": ""
 },
 {
+"titre": "Vente de sapins au profit du téléthon",
+"commune": "Saint-Rémy",
+"km": 8,
+"periodes": [
+[
+"2026-11-01",
+"2026-12-01"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Enquête dans les camps de César",
 "commune": "Alise-Sainte-Reine",
 "km": 14,
@@ -130,114 +144,16 @@
 "resume": ""
 },
 {
-"titre": "Coup de Cœur surprise AFCAE",
-"commune": "Semur-en-Auxois",
-"km": 9,
+"titre": "Les marchés du mercredi au profit du Téléthon",
+"commune": "Saint-Rémy",
+"km": 8,
 "periodes": [
 [
-"2026-11-03",
-"2026-11-03"
-],
-[
-"2026-12-01",
-"2026-12-01"
-],
-[
-"2027-01-05",
-"2027-01-05"
-],
-[
-"2027-02-02",
-"2027-02-02"
-],
-[
-"2027-03-02",
-"2027-03-02"
-],
-[
-"2027-04-06",
-"2027-04-06"
-],
-[
-"2027-05-04",
-"2027-05-04"
-],
-[
-"2027-06-01",
-"2027-06-01"
-],
-[
-"2027-07-06",
-"2027-07-06"
+"2026-11-04",
+"2026-11-25"
 ]
 ],
-"types": [
-"Cinéma"
-],
-"lien": "https://www.ticketingcine.com/?EMS1153#showmovie?id=SOF6K",
-"resume": ""
-},
-{
-"titre": "Sophro-balade",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-03",
-"2026-11-03"
-],
-[
-"2026-11-10",
-"2026-11-10"
-],
-[
-"2026-11-17",
-"2026-11-17"
-],
-[
-"2026-11-24",
-"2026-11-24"
-],
-[
-"2026-12-01",
-"2026-12-01"
-],
-[
-"2026-12-08",
-"2026-12-08"
-],
-[
-"2026-12-15",
-"2026-12-15"
-],
-[
-"2026-12-22",
-"2026-12-22"
-],
-[
-"2026-12-29",
-"2026-12-29"
-]
-],
-"types": [
-"Sport"
-],
-"lien": "https://www.corinecastella.com/",
-"resume": ""
-},
-{
-"titre": "Séance cinéma \"Ni vue, ni connue\"",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-03",
-"2026-11-03"
-]
-],
-"types": [
-"Cinéma"
-],
+"types": [],
 "lien": "",
 "resume": ""
 },
@@ -1234,22 +1150,6 @@
 "resume": ""
 },
 {
-"titre": "Comédie mode d'emploi : The big Lebowski",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
-"resume": ""
-},
-{
 "titre": "Festival Vive la magie - Grande soirée magique",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1267,7 +1167,23 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Spectacle jeune public",
+"titre": "Comédie mode d'emploi : The big Lebowski",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Close-up en continu",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1284,7 +1200,7 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Close-up en continu",
+"titre": "Festival Vive la magie - Spectacle jeune public",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1467,6 +1383,50 @@
 "resume": ""
 },
 {
+"titre": "Sophro-balade",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-10",
+"2026-11-10"
+],
+[
+"2026-11-17",
+"2026-11-17"
+],
+[
+"2026-11-24",
+"2026-11-24"
+],
+[
+"2026-12-01",
+"2026-12-01"
+],
+[
+"2026-12-08",
+"2026-12-08"
+],
+[
+"2026-12-15",
+"2026-12-15"
+],
+[
+"2026-12-22",
+"2026-12-22"
+],
+[
+"2026-12-29",
+"2026-12-29"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "https://www.corinecastella.com/",
+"resume": ""
+},
+{
 "titre": "Ann & Mary",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1497,6 +1457,22 @@
 "Enfants"
 ],
 "lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Un mois, une oeuvre",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "",
 "resume": ""
 },
 {
@@ -1548,22 +1524,6 @@
 "Spectacle"
 ],
 "lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Un mois, une oeuvre",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Visite"
-],
-"lien": "",
 "resume": ""
 },
 {
@@ -1657,22 +1617,6 @@
 "resume": ""
 },
 {
-"titre": "Impermanence",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "http://www.laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Georges",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -1689,6 +1633,22 @@
 "resume": ""
 },
 {
+"titre": "Impermanence",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
 "titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
 "commune": "Marmagne",
 "km": 9,
@@ -1702,6 +1662,30 @@
 "Exposition"
 ],
 "lien": "https://www.abbayedefontenay.com/",
+"resume": ""
+},
+{
+"titre": "Atelier d'écriture SAISON 3",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-17",
+"2026-11-17"
+],
+[
+"2026-11-24",
+"2026-11-24"
+],
+[
+"2026-12-08",
+"2026-12-08"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "http://www.mediatheque-venarey.net/",
 "resume": ""
 },
 {
@@ -1766,6 +1750,20 @@
 "Vente"
 ],
 "lien": "https://www.labaux.org/gratiferia",
+"resume": ""
+},
+{
+"titre": "Coup de cœur lecture",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-21",
+"2026-11-21"
+]
+],
+"types": [],
+"lien": "http://www.mediatheque-venarey.net/",
 "resume": ""
 },
 {
@@ -1930,6 +1928,50 @@
 "resume": ""
 },
 {
+"titre": "Coup de Cœur surprise AFCAE",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-12-01",
+"2026-12-01"
+],
+[
+"2027-01-05",
+"2027-01-05"
+],
+[
+"2027-02-02",
+"2027-02-02"
+],
+[
+"2027-03-02",
+"2027-03-02"
+],
+[
+"2027-04-06",
+"2027-04-06"
+],
+[
+"2027-05-04",
+"2027-05-04"
+],
+[
+"2027-06-01",
+"2027-06-01"
+],
+[
+"2027-07-06",
+"2027-07-06"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.ticketingcine.com/?EMS1153#showmovie?id=SOF6K",
+"resume": ""
+},
+{
 "titre": "Rencontre autour de l'époisses",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1957,6 +1999,24 @@
 "Atelier"
 ],
 "lien": "https://inscription-formation.croix-rouge.fr/inscription-1",
+"resume": ""
+},
+{
+"titre": "Visites nocturnes avec illuminations et apéritif à l'Abbaye de Fontenay",
+"commune": "Marmagne",
+"km": 10,
+"periodes": [
+[
+"2026-12-05",
+"2026-12-05"
+],
+[
+"2026-12-19",
+"2026-12-19"
+]
+],
+"types": [],
+"lien": "https://www.abbayedefontenay.com/",
 "resume": ""
 },
 {
@@ -2055,7 +2115,9 @@
 "2026-12-13"
 ]
 ],
-"types": [],
+"types": [
+"Fête"
+],
 "lien": "",
 "resume": ""
 },
@@ -2092,6 +2154,20 @@
 "Marché"
 ],
 "lien": "https://www.facebook.com/LesAmisDArgenteuilSurArmancon/",
+"resume": ""
+},
+{
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-13",
+"2026-12-13"
+]
+],
+"types": [],
+"lien": "",
 "resume": ""
 },
 {
@@ -2157,20 +2233,6 @@
 "Visite"
 ],
 "lien": "https://tickets.monuments-nationaux.fr/fr-FR/familles?site=2015384433810400027",
-"resume": ""
-},
-{
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-27",
-"2026-12-27"
-]
-],
-"types": [],
-"lien": "",
 "resume": ""
 },
 {
