@@ -93,7 +93,7 @@ def resume(description, limite=180):
 
 def main():
     aujourdhui = datetime.date.today().isoformat()
-    requete = urllib.request.Request(SOURCE, headers={"User-Agent": "viserny.maxteiger.com"})
+    requete = urllib.request.Request(SOURCE, headers={"User-Agent": "maison.maxteiger.com"})
     evenements = {}
     with urllib.request.urlopen(requete, timeout=300) as reponse:
         lecteur = csv.DictReader(io.TextIOWrapper(reponse, encoding="utf-8", newline=""))
