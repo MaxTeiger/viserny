@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-04",
+"maj": "2026-11-05",
 "rayon_km": 25,
 "evenements": [
 {
@@ -158,35 +158,373 @@
 "resume": ""
 },
 {
-"titre": "Visite de la fabrique Bon Vivant et dégustation de biscuits",
+"titre": "Concert Christelle Loury",
+"commune": "Époisses",
+"km": 10,
+"periodes": [
+[
+"2026-11-06",
+"2026-11-06"
+]
+],
+"types": [
+"Concert"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier parentalité bien être",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-06",
+"2026-11-06"
+]
+],
+"types": [
+"Enfants",
+"Sport",
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Légumes de saison et épicerie locale",
+"commune": "Perrigny-sur-Armançon",
+"km": 14,
+"periodes": [
+[
+"2026-11-06",
+"2026-11-06"
+],
+[
+"2026-11-13",
+"2026-11-13"
+],
+[
+"2026-11-20",
+"2026-11-20"
+],
+[
+"2026-11-27",
+"2026-11-27"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Dictée intergénérationnelle",
+"commune": "Époisses",
+"km": 8,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Grande soirée magique",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
 [
-"2026-11-04",
-"2026-11-04"
-],
-[
-"2026-11-18",
-"2026-11-18"
-],
-[
-"2026-11-25",
-"2026-11-25"
-],
-[
-"2026-12-02",
-"2026-12-02"
-],
-[
-"2026-12-09",
-"2026-12-09"
+"2026-11-07",
+"2026-11-07"
 ]
 ],
 "types": [
-"Visite"
+"Enfants",
+"Spectacle"
 ],
-"lien": "https://forms.gle/Vj3XQC13oRCyxoQW9",
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/grande-soiree-magique",
+"resume": ""
+},
+{
+"titre": "Comédie mode d'emploi : The big Lebowski",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Spectacle jeune public [COMPLET]",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Close-up en continu",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
+"resume": ""
+},
+{
+"titre": "Atelier de kinésiologie ludique® - Précy",
+"commune": "Précy-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+],
+[
+"2026-12-12",
+"2026-12-12"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://form.jotform.com/253305979386370",
+"resume": ""
+},
+{
+"titre": "Table ronde et atelier",
+"commune": "Brianny",
+"km": 20,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [
+"Exposition",
+"Atelier"
+],
+"lien": "https://framaforms.org/inscription-table-ronde-et-atelier-samedi-7-nov-2026-1791800725",
+"resume": ""
+},
+{
+"titre": "Week end Santé Gourmande",
+"commune": "Darcey",
+"km": 21,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-08"
+],
+[
+"2027-01-30",
+"2027-01-31"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Randonnée nocturne de la Saint-Martin d'hiver",
+"commune": "Saint-Germain-de-Modéon",
+"km": 23,
+"periodes": [
+[
+"2026-11-07",
+"2026-11-07"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Cin'Échanges / Les Misérables",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/cinechanges--les-miserables-4146",
+"resume": ""
+},
+{
+"titre": "Festival Vive la magie - Spectacle de mentalisme",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Enfants",
+"Spectacle"
+],
+"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/en-toute-apparence-spectacle-de-mentalisme",
+"resume": ""
+},
+{
+"titre": "Bain de Gongs - dans le ventre de la Nuit, nouvelle lune en Scorpion",
+"commune": "Époisses",
+"km": 10,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://www.joia-maisondejoie.fr/",
+"resume": ""
+},
+{
+"titre": "Bourse aux jouets & puériculture",
+"commune": "Vic-de-Chassenay",
+"km": 10,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [
+"Vente"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Nettoyage des berges du Lac de Pont",
+"commune": "Pont-et-Massène",
+"km": 12,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Marché des créateurs et des producteurs locaux",
+"commune": "Aisy-sous-Thil",
+"km": 19,
+"periodes": [
+[
+"2026-11-08",
+"2026-11-08"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Lundi du Doc / Retour au Collège",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-09",
+"2026-11-09"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/lundi-du-doc---retour-au-college-4026",
+"resume": ""
+},
+{
+"titre": "Sophro-balade",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-10",
+"2026-11-10"
+],
+[
+"2026-11-17",
+"2026-11-17"
+],
+[
+"2026-11-24",
+"2026-11-24"
+],
+[
+"2026-12-01",
+"2026-12-01"
+],
+[
+"2026-12-08",
+"2026-12-08"
+],
+[
+"2026-12-15",
+"2026-12-15"
+],
+[
+"2026-12-22",
+"2026-12-22"
+],
+[
+"2026-12-29",
+"2026-12-29"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "https://www.corinecastella.com/",
 "resume": ""
 },
 {
@@ -194,10 +532,6 @@
 "commune": "Venarey-les-Laumes",
 "km": 13,
 "periodes": [
-[
-"2026-11-04",
-"2026-11-04"
-],
 [
 "2026-11-11",
 "2026-11-11"
@@ -1071,362 +1405,6 @@
 "resume": ""
 },
 {
-"titre": "Concert Christelle Loury",
-"commune": "Époisses",
-"km": 10,
-"periodes": [
-[
-"2026-11-06",
-"2026-11-06"
-]
-],
-"types": [
-"Concert"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Atelier parentalité bien être",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-06",
-"2026-11-06"
-]
-],
-"types": [
-"Enfants",
-"Sport",
-"Atelier"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Légumes de saison et épicerie locale",
-"commune": "Perrigny-sur-Armançon",
-"km": 14,
-"periodes": [
-[
-"2026-11-06",
-"2026-11-06"
-],
-[
-"2026-11-13",
-"2026-11-13"
-],
-[
-"2026-11-20",
-"2026-11-20"
-],
-[
-"2026-11-27",
-"2026-11-27"
-]
-],
-"types": [
-"Vente",
-"Marché"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Dictée intergénérationnelle",
-"commune": "Époisses",
-"km": 8,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Festival Vive la magie - Grande soirée magique",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/grande-soiree-magique",
-"resume": ""
-},
-{
-"titre": "Comédie mode d'emploi : The big Lebowski",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
-"resume": ""
-},
-{
-"titre": "Festival Vive la magie - Close-up en continu",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
-"resume": ""
-},
-{
-"titre": "Festival Vive la magie - Spectacle jeune public",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
-"resume": ""
-},
-{
-"titre": "Table ronde et atelier",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Exposition",
-"Atelier"
-],
-"lien": "https://framaforms.org/inscription-table-ronde-et-atelier-samedi-7-nov-2026-1791800725",
-"resume": ""
-},
-{
-"titre": "Atelier de kinésiologie ludique® - Précy",
-"commune": "Précy-sous-Thil",
-"km": 20,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-],
-[
-"2026-12-12",
-"2026-12-12"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "https://form.jotform.com/253305979386370",
-"resume": ""
-},
-{
-"titre": "Week end Santé Gourmande",
-"commune": "Darcey",
-"km": 21,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-08"
-],
-[
-"2027-01-30",
-"2027-01-31"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Cin'Échanges / Les Misérables",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "https://www.etoilecinema.com/evenement/cinechanges--les-miserables-4146",
-"resume": ""
-},
-{
-"titre": "Festival Vive la magie - Spectacle de mentalisme",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/en-toute-apparence-spectacle-de-mentalisme",
-"resume": ""
-},
-{
-"titre": "Bain de Gongs - dans le ventre de la Nuit, nouvelle lune en Scorpion",
-"commune": "Époisses",
-"km": 10,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "https://www.joia-maisondejoie.fr/",
-"resume": ""
-},
-{
-"titre": "Bourse aux jouets & puériculture",
-"commune": "Vic-de-Chassenay",
-"km": 10,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Vente"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Nettoyage des berges du Lac de Pont",
-"commune": "Pont-et-Massène",
-"km": 12,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Marché des créateurs et des producteurs locaux",
-"commune": "Aisy-sous-Thil",
-"km": 19,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Lundi du Doc / Retour au Collège",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-09",
-"2026-11-09"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "https://www.etoilecinema.com/evenement/lundi-du-doc---retour-au-college-4026",
-"resume": ""
-},
-{
-"titre": "Sophro-balade",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-10",
-"2026-11-10"
-],
-[
-"2026-11-17",
-"2026-11-17"
-],
-[
-"2026-11-24",
-"2026-11-24"
-],
-[
-"2026-12-01",
-"2026-12-01"
-],
-[
-"2026-12-08",
-"2026-12-08"
-],
-[
-"2026-12-15",
-"2026-12-15"
-],
-[
-"2026-12-22",
-"2026-12-22"
-],
-[
-"2026-12-29",
-"2026-12-29"
-]
-],
-"types": [
-"Sport"
-],
-"lien": "https://www.corinecastella.com/",
-"resume": ""
-},
-{
 "titre": "Ann & Mary",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1457,22 +1435,6 @@
 "Enfants"
 ],
 "lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Un mois, une oeuvre",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Visite"
-],
-"lien": "",
 "resume": ""
 },
 {
@@ -1507,6 +1469,22 @@
 "Théâtre"
 ],
 "lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Un mois, une oeuvre",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "",
 "resume": ""
 },
 {
@@ -1617,22 +1595,6 @@
 "resume": ""
 },
 {
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Impermanence",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -1646,6 +1608,22 @@
 "Exposition"
 ],
 "lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
 "resume": ""
 },
 {
@@ -1702,6 +1680,34 @@
 "Cinéma"
 ],
 "lien": "",
+"resume": ""
+},
+{
+"titre": "Visite de la fabrique Bon Vivant et dégustation de biscuits",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-18",
+"2026-11-18"
+],
+[
+"2026-11-25",
+"2026-11-25"
+],
+[
+"2026-12-02",
+"2026-12-02"
+],
+[
+"2026-12-09",
+"2026-12-09"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "https://forms.gle/Vj3XQC13oRCyxoQW9",
 "resume": ""
 },
 {
