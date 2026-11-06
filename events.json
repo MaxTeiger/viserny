@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-05",
+"maj": "2026-11-06",
 "rayon_km": 25,
 "evenements": [
 {
@@ -158,69 +158,6 @@
 "resume": ""
 },
 {
-"titre": "Concert Christelle Loury",
-"commune": "Époisses",
-"km": 10,
-"periodes": [
-[
-"2026-11-06",
-"2026-11-06"
-]
-],
-"types": [
-"Concert"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Atelier parentalité bien être",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-06",
-"2026-11-06"
-]
-],
-"types": [
-"Enfants",
-"Sport",
-"Atelier"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Légumes de saison et épicerie locale",
-"commune": "Perrigny-sur-Armançon",
-"km": 14,
-"periodes": [
-[
-"2026-11-06",
-"2026-11-06"
-],
-[
-"2026-11-13",
-"2026-11-13"
-],
-[
-"2026-11-20",
-"2026-11-20"
-],
-[
-"2026-11-27",
-"2026-11-27"
-]
-],
-"types": [
-"Vente",
-"Marché"
-],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "Dictée intergénérationnelle",
 "commune": "Époisses",
 "km": 8,
@@ -237,7 +174,7 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Grande soirée magique",
+"titre": "[COMPLET] Festival Vive la magie - Grande soirée magique",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -250,7 +187,7 @@
 "Enfants",
 "Spectacle"
 ],
-"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/grande-soiree-magique",
+"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
 "resume": ""
 },
 {
@@ -270,7 +207,7 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Spectacle jeune public [COMPLET]",
+"titre": "Festival Vive la magie - Close-up en continu",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -287,7 +224,7 @@
 "resume": ""
 },
 {
-"titre": "Festival Vive la magie - Close-up en continu",
+"titre": "Festival Vive la magie - Spectacle jeune public [COMPLET]",
 "commune": "Semur-en-Auxois",
 "km": 9,
 "periodes": [
@@ -1438,20 +1375,48 @@
 "resume": ""
 },
 {
-"titre": "Bal des lucioles",
-"commune": "Semur-en-Auxois",
-"km": 9,
+"titre": "Légumes de saison et épicerie locale",
+"commune": "Perrigny-sur-Armançon",
+"km": 14,
+"periodes": [
+[
+"2026-11-13",
+"2026-11-13"
+],
+[
+"2026-11-20",
+"2026-11-20"
+],
+[
+"2026-11-27",
+"2026-11-27"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Du vent dans nos corps",
+"commune": "Montbard",
+"km": 8,
 "periodes": [
 [
 "2026-11-14",
 "2026-11-14"
+],
+[
+"2026-11-15",
+"2026-11-15"
 ]
 ],
 "types": [
-"Enfants",
-"Festival"
+"Concert"
 ],
-"lien": "https://festivaltapage.fr/",
+"lien": "https://musiquecorpscreux.wixsite.com/website",
 "resume": ""
 },
 {
@@ -1467,6 +1432,23 @@
 "types": [
 "Spectacle",
 "Théâtre"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Bal des lucioles",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Enfants",
+"Festival"
 ],
 "lien": "https://festivaltapage.fr/",
 "resume": ""
@@ -1557,6 +1539,20 @@
 "resume": ""
 },
 {
+"titre": "PAS DE TITRE",
+"commune": "Clamerey",
+"km": 20,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Soirée théâtre \"c'est pas clerc\"",
 "commune": "Magny",
 "km": 25,
@@ -1595,22 +1591,6 @@
 "resume": ""
 },
 {
-"titre": "Impermanence",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "http://www.laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Georges",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -1627,6 +1607,22 @@
 "resume": ""
 },
 {
+"titre": "Impermanence",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
 "titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
 "commune": "Marmagne",
 "km": 9,
@@ -1640,6 +1636,22 @@
 "Exposition"
 ],
 "lien": "https://www.abbayedefontenay.com/",
+"resume": ""
+},
+{
+"titre": "Séance cinéma \"Les misérables\"",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-17",
+"2026-11-17"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "",
 "resume": ""
 },
 {
@@ -1664,22 +1676,6 @@
 "Atelier"
 ],
 "lien": "http://www.mediatheque-venarey.net/",
-"resume": ""
-},
-{
-"titre": "Séance cinéma \"Les misérables\"",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-17",
-"2026-11-17"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "",
 "resume": ""
 },
 {
@@ -1770,6 +1766,22 @@
 ],
 "types": [],
 "lien": "http://www.mediatheque-venarey.net/",
+"resume": ""
+},
+{
+"titre": "Fête de l’agri-ruralité en Auxois",
+"commune": "Flavigny-sur-Ozerain",
+"km": 19,
+"periodes": [
+[
+"2026-11-21",
+"2026-11-21"
+]
+],
+"types": [
+"Fête"
+],
+"lien": "",
 "resume": ""
 },
 {
@@ -2076,6 +2088,23 @@
 "resume": ""
 },
 {
+"titre": "Marché de Noël, Semur",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-12-06",
+"2026-12-06"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Dicklove",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -2166,6 +2195,20 @@
 "titre": "Thé dansant",
 "commune": "La Roche-Vanneau",
 "km": 21,
+"periodes": [
+[
+"2026-12-13",
+"2026-12-13"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Marché de Noël de Saint-Germain-de-Modéon",
+"commune": "Saint-Germain-de-Modéon",
+"km": 23,
 "periodes": [
 [
 "2026-12-13",
