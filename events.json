@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-06",
+"maj": "2026-11-07",
 "rayon_km": 25,
 "evenements": [
 {
@@ -158,126 +158,6 @@
 "resume": ""
 },
 {
-"titre": "Dictée intergénérationnelle",
-"commune": "Époisses",
-"km": 8,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "[COMPLET] Festival Vive la magie - Grande soirée magique",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
-"resume": ""
-},
-{
-"titre": "Comédie mode d'emploi : The big Lebowski",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "https://www.etoilecinema.com/evenement/film-patrimoine---the-big-lebowski-3936",
-"resume": ""
-},
-{
-"titre": "Festival Vive la magie - Close-up en continu",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
-"resume": ""
-},
-{
-"titre": "Festival Vive la magie - Spectacle jeune public [COMPLET]",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.theatredurempart.fr/events/festival-vive-la-magie-2026/",
-"resume": ""
-},
-{
-"titre": "Atelier de kinésiologie ludique® - Précy",
-"commune": "Précy-sous-Thil",
-"km": 20,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-],
-[
-"2026-12-12",
-"2026-12-12"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "https://form.jotform.com/253305979386370",
-"resume": ""
-},
-{
-"titre": "Table ronde et atelier",
-"commune": "Brianny",
-"km": 20,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [
-"Exposition",
-"Atelier"
-],
-"lien": "https://framaforms.org/inscription-table-ronde-et-atelier-samedi-7-nov-2026-1791800725",
-"resume": ""
-},
-{
 "titre": "Week end Santé Gourmande",
 "commune": "Darcey",
 "km": 21,
@@ -294,20 +174,6 @@
 "types": [
 "Atelier"
 ],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Randonnée nocturne de la Saint-Martin d'hiver",
-"commune": "Saint-Germain-de-Modéon",
-"km": 23,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-07"
-]
-],
-"types": [],
 "lien": "",
 "resume": ""
 },
@@ -1420,6 +1286,23 @@
 "resume": ""
 },
 {
+"titre": "Bal des lucioles",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Festival",
+"Enfants"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
 "titre": "Dans le cadre de TAPAGE #3 : Spectacle \"MAINS\"",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1432,23 +1315,6 @@
 "types": [
 "Spectacle",
 "Théâtre"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Bal des lucioles",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Enfants",
-"Festival"
 ],
 "lien": "https://festivaltapage.fr/",
 "resume": ""
@@ -2004,6 +1870,22 @@
 "resume": ""
 },
 {
+"titre": "Les Lumières de Noël",
+"commune": "Nogent-lès-Montbard",
+"km": 8,
+"periodes": [
+[
+"2026-12-05",
+"2026-12-05"
+]
+],
+"types": [
+"Fête"
+],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Formation Premiers Secours",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -2023,24 +1905,6 @@
 "titre": "Visites nocturnes avec illuminations et apéritif à l'Abbaye de Fontenay",
 "commune": "Marmagne",
 "km": 10,
-"periodes": [
-[
-"2026-12-05",
-"2026-12-05"
-],
-[
-"2026-12-19",
-"2026-12-19"
-]
-],
-"types": [],
-"lien": "https://www.abbayedefontenay.com/",
-"resume": ""
-},
-{
-"titre": "Visite nocturne avec illuminations et apéritif à l'Abbaye de Fontenay",
-"commune": "Marmagne",
-"km": 12,
 "periodes": [
 [
 "2026-12-05",
@@ -2172,6 +2036,22 @@
 "Fête"
 ],
 "lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier de kinésiologie ludique® - Précy",
+"commune": "Précy-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2026-12-12",
+"2026-12-12"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://form.jotform.com/253305979386370",
 "resume": ""
 },
 {
