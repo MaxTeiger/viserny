@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-07",
+"maj": "2026-11-08",
 "rayon_km": 25,
 "evenements": [
 {
@@ -151,119 +151,6 @@
 [
 "2026-11-04",
 "2026-11-25"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Week end Santé Gourmande",
-"commune": "Darcey",
-"km": 21,
-"periodes": [
-[
-"2026-11-07",
-"2026-11-08"
-],
-[
-"2027-01-30",
-"2027-01-31"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Cin'Échanges / Les Misérables",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "https://www.etoilecinema.com/evenement/cinechanges--les-miserables-4146",
-"resume": ""
-},
-{
-"titre": "Festival Vive la magie - Spectacle de mentalisme",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Enfants",
-"Spectacle"
-],
-"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/en-toute-apparence-spectacle-de-mentalisme",
-"resume": ""
-},
-{
-"titre": "Bain de Gongs - dans le ventre de la Nuit, nouvelle lune en Scorpion",
-"commune": "Époisses",
-"km": 10,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "https://www.joia-maisondejoie.fr/",
-"resume": ""
-},
-{
-"titre": "Bourse aux jouets & puériculture",
-"commune": "Vic-de-Chassenay",
-"km": 10,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [
-"Vente"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Nettoyage des berges du Lac de Pont",
-"commune": "Pont-et-Massène",
-"km": 12,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Marché des créateurs et des producteurs locaux",
-"commune": "Aisy-sous-Thil",
-"km": 19,
-"periodes": [
-[
-"2026-11-08",
-"2026-11-08"
 ]
 ],
 "types": [],
@@ -1286,23 +1173,6 @@
 "resume": ""
 },
 {
-"titre": "Bal des lucioles",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Festival",
-"Enfants"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
 "titre": "Dans le cadre de TAPAGE #3 : Spectacle \"MAINS\"",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1315,6 +1185,40 @@
 "types": [
 "Spectacle",
 "Théâtre"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Bal des lucioles",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Enfants",
+"Festival"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Festival TAPAGE #3 : Cine-Ponti",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Cinéma",
+"Spectacle"
 ],
 "lien": "https://festivaltapage.fr/",
 "resume": ""
@@ -1333,23 +1237,6 @@
 "Visite"
 ],
 "lien": "",
-"resume": ""
-},
-{
-"titre": "Festival TAPAGE #3 : Cine-Ponti",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Cinéma",
-"Spectacle"
-],
-"lien": "https://festivaltapage.fr/",
 "resume": ""
 },
 {
@@ -1405,7 +1292,7 @@
 "resume": ""
 },
 {
-"titre": "PAS DE TITRE",
+"titre": "Course d'orientation",
 "commune": "Clamerey",
 "km": 20,
 "periodes": [
@@ -1414,7 +1301,9 @@
 "2026-11-14"
 ]
 ],
-"types": [],
+"types": [
+"Sport"
+],
 "lien": "",
 "resume": ""
 },
@@ -1457,22 +1346,6 @@
 "resume": ""
 },
 {
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Impermanence",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -1486,6 +1359,22 @@
 "Exposition"
 ],
 "lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
 "resume": ""
 },
 {
@@ -1985,6 +1874,22 @@
 "resume": ""
 },
 {
+"titre": "Chantier participatif LPO",
+"commune": "Millery",
+"km": 6,
+"periodes": [
+[
+"2026-12-12",
+"2026-12-12"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Visites guidées aux flambeaux à l'Abbaye de Fontenay - Noël 2026",
 "commune": "Marmagne",
 "km": 10,
@@ -2194,6 +2099,22 @@
 [
 "2027-05-22",
 "2027-05-23"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Week end Santé Gourmande",
+"commune": "Darcey",
+"km": 21,
+"periodes": [
+[
+"2027-01-30",
+"2027-01-31"
 ]
 ],
 "types": [
