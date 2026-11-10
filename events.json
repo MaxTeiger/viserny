@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-09",
+"maj": "2026-11-10",
 "rayon_km": 25,
 "evenements": [
 {
@@ -1191,6 +1191,22 @@
 "resume": ""
 },
 {
+"titre": "Un mois, une oeuvre",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Festival TAPAGE #3 : Cine-Ponti",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1205,22 +1221,6 @@
 "Spectacle"
 ],
 "lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Un mois, une oeuvre",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Visite"
-],
-"lien": "",
 "resume": ""
 },
 {
