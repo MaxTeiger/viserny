@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-11",
+"maj": "2026-11-12",
 "rayon_km": 25,
 "evenements": [
 {
@@ -158,14 +158,431 @@
 "resume": ""
 },
 {
+"titre": "Festival TAPAGE #3 !",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-13",
+"2026-11-15"
+]
+],
+"types": [
+"Enfants"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Légumes de saison et épicerie locale",
+"commune": "Perrigny-sur-Armançon",
+"km": 14,
+"periodes": [
+[
+"2026-11-13",
+"2026-11-13"
+],
+[
+"2026-11-20",
+"2026-11-20"
+],
+[
+"2026-11-27",
+"2026-11-27"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Du vent dans nos corps",
+"commune": "Montbard",
+"km": 8,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+],
+[
+"2026-11-15",
+"2026-11-15"
+]
+],
+"types": [
+"Concert"
+],
+"lien": "https://musiquecorpscreux.wixsite.com/website",
+"resume": ""
+},
+{
+"titre": "Dans le cadre de TAPAGE #3 : Spectacle \"MAINS\"",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Spectacle",
+"Théâtre"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Bal des lucioles",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Enfants",
+"Festival"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Un mois, une oeuvre",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Festival TAPAGE #3 : Cine-Ponti",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Cinéma",
+"Spectacle"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Atelier aquarelle",
+"commune": "Semur-en-Auxois",
+"km": 10,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+],
+[
+"2026-11-28",
+"2026-11-28"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Novembre en douceur",
+"commune": "Massingy-lès-Semur",
+"km": 11,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "https://www.facebook.com/lesanessesdelacotedupuits",
+"resume": ""
+},
+{
+"titre": "Loto de l'école Debussy-Rostand",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Spectacle Le cirque, la vie et tout le reste de et par Gulko",
+"commune": "Montréal",
+"km": 19,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Spectacle"
+],
+"lien": "https://www.helloasso.com/associations/association-chateau-de-monthelon/evenements/nuit-du-cirque-de-monthelon-2026",
+"resume": ""
+},
+{
+"titre": "Course d'orientation",
+"commune": "Clamerey",
+"km": 20,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Soirée théâtre \"c'est pas clerc\"",
+"commune": "Magny",
+"km": 25,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+],
+[
+"2026-11-15",
+"2026-11-15"
+]
+],
+"types": [
+"Théâtre"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Festival TAPAGE #3 : \"Comment naissent les histoires ?\"",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-15",
+"2026-11-15"
+]
+],
+"types": [
+"Enfants",
+"Spectacle",
+"Théâtre"
+],
+"lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Impermanence",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
+"commune": "Marmagne",
+"km": 9,
+"periodes": [
+[
+"2026-11-16",
+"2027-02-16"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://www.abbayedefontenay.com/",
+"resume": ""
+},
+{
+"titre": "Sophro-balade",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-17",
+"2026-11-17"
+],
+[
+"2026-11-24",
+"2026-11-24"
+],
+[
+"2026-12-01",
+"2026-12-01"
+],
+[
+"2026-12-08",
+"2026-12-08"
+],
+[
+"2026-12-15",
+"2026-12-15"
+],
+[
+"2026-12-22",
+"2026-12-22"
+],
+[
+"2026-12-29",
+"2026-12-29"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "https://www.corinecastella.com/",
+"resume": ""
+},
+{
+"titre": "Séance cinéma \"Les misérables\"",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-17",
+"2026-11-17"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier d'écriture SAISON 3",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-17",
+"2026-11-17"
+],
+[
+"2026-11-24",
+"2026-11-24"
+],
+[
+"2026-12-08",
+"2026-12-08"
+]
+],
+"types": [
+"Atelier"
+],
+"lien": "http://www.mediatheque-venarey.net/",
+"resume": ""
+},
+{
+"titre": "Visite de la fabrique Bon Vivant et dégustation de biscuits",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-18",
+"2026-11-18"
+],
+[
+"2026-11-25",
+"2026-11-25"
+],
+[
+"2026-12-02",
+"2026-12-02"
+],
+[
+"2026-12-09",
+"2026-12-09"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "https://forms.gle/Vj3XQC13oRCyxoQW9",
+"resume": ""
+},
+{
+"titre": "Concours de reproducteurs de Charolais",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-18",
+"2026-11-19"
+]
+],
+"types": [
+"Exposition",
+"Vente"
+],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Marché hebdomadaire",
 "commune": "Venarey-les-Laumes",
 "km": 13,
 "periodes": [
-[
-"2026-11-11",
-"2026-11-11"
-],
 [
 "2026-11-18",
 "2026-11-18"
@@ -1035,430 +1452,6 @@
 "resume": ""
 },
 {
-"titre": "Ann & Mary",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-12",
-"2026-11-12"
-]
-],
-"types": [
-"Spectacle",
-"Théâtre"
-],
-"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/ann-mary",
-"resume": ""
-},
-{
-"titre": "Festival TAPAGE #3 !",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-13",
-"2026-11-15"
-]
-],
-"types": [
-"Enfants"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Légumes de saison et épicerie locale",
-"commune": "Perrigny-sur-Armançon",
-"km": 14,
-"periodes": [
-[
-"2026-11-13",
-"2026-11-13"
-],
-[
-"2026-11-20",
-"2026-11-20"
-],
-[
-"2026-11-27",
-"2026-11-27"
-]
-],
-"types": [
-"Vente",
-"Marché"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Du vent dans nos corps",
-"commune": "Montbard",
-"km": 8,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-],
-[
-"2026-11-15",
-"2026-11-15"
-]
-],
-"types": [
-"Concert"
-],
-"lien": "https://musiquecorpscreux.wixsite.com/website",
-"resume": ""
-},
-{
-"titre": "Bal des lucioles",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Enfants",
-"Festival"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Dans le cadre de TAPAGE #3 : Spectacle \"MAINS\"",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Spectacle",
-"Théâtre"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Un mois, une oeuvre",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Visite"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Festival TAPAGE #3 : Cine-Ponti",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Cinéma",
-"Spectacle"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Atelier aquarelle",
-"commune": "Semur-en-Auxois",
-"km": 10,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-],
-[
-"2026-11-28",
-"2026-11-28"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Novembre en douceur",
-"commune": "Massingy-lès-Semur",
-"km": 11,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "https://www.facebook.com/lesanessesdelacotedupuits",
-"resume": ""
-},
-{
-"titre": "Spectacle Le cirque, la vie et tout le reste de et par Gulko",
-"commune": "Montréal",
-"km": 19,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Spectacle"
-],
-"lien": "https://www.helloasso.com/associations/association-chateau-de-monthelon/evenements/nuit-du-cirque-de-monthelon-2026",
-"resume": ""
-},
-{
-"titre": "Course d'orientation",
-"commune": "Clamerey",
-"km": 20,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Sport"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Soirée théâtre \"c'est pas clerc\"",
-"commune": "Magny",
-"km": 25,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-],
-[
-"2026-11-15",
-"2026-11-15"
-]
-],
-"types": [
-"Théâtre"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Festival TAPAGE #3 : \"Comment naissent les histoires ?\"",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-15",
-"2026-11-15"
-]
-],
-"types": [
-"Enfants",
-"Spectacle",
-"Théâtre"
-],
-"lien": "https://www.helloasso.com/associations/office-de-tourisme-des-terres-d-auxois/evenements/comment-naissent-les-histoires",
-"resume": ""
-},
-{
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
-"resume": ""
-},
-{
-"titre": "Impermanence",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "http://www.laporcherie.com/",
-"resume": ""
-},
-{
-"titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
-"commune": "Marmagne",
-"km": 9,
-"periodes": [
-[
-"2026-11-16",
-"2027-02-16"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://www.abbayedefontenay.com/",
-"resume": ""
-},
-{
-"titre": "Sophro-balade",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-17",
-"2026-11-17"
-],
-[
-"2026-11-24",
-"2026-11-24"
-],
-[
-"2026-12-01",
-"2026-12-01"
-],
-[
-"2026-12-08",
-"2026-12-08"
-],
-[
-"2026-12-15",
-"2026-12-15"
-],
-[
-"2026-12-22",
-"2026-12-22"
-],
-[
-"2026-12-29",
-"2026-12-29"
-]
-],
-"types": [
-"Sport"
-],
-"lien": "https://www.corinecastella.com/",
-"resume": ""
-},
-{
-"titre": "Séance cinéma \"Les misérables\"",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-17",
-"2026-11-17"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Atelier d'écriture SAISON 3",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-17",
-"2026-11-17"
-],
-[
-"2026-11-24",
-"2026-11-24"
-],
-[
-"2026-12-08",
-"2026-12-08"
-]
-],
-"types": [
-"Atelier"
-],
-"lien": "http://www.mediatheque-venarey.net/",
-"resume": ""
-},
-{
-"titre": "Visite de la fabrique Bon Vivant et dégustation de biscuits",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-18",
-"2026-11-18"
-],
-[
-"2026-11-25",
-"2026-11-25"
-],
-[
-"2026-12-02",
-"2026-12-02"
-],
-[
-"2026-12-09",
-"2026-12-09"
-]
-],
-"types": [
-"Visite"
-],
-"lien": "https://forms.gle/Vj3XQC13oRCyxoQW9",
-"resume": ""
-},
-{
-"titre": "Concours de reproducteurs de Charolais",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-18",
-"2026-11-19"
-]
-],
-"types": [
-"Exposition",
-"Vente"
-],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "GRÉGOIRE COURTOIS, L'ENFANT GRISE",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1749,6 +1742,8 @@
 ]
 ],
 "types": [
+"Vente",
+"Marché",
 "Fête"
 ],
 "lien": "",
@@ -1834,20 +1829,6 @@
 "Vente",
 "Marché"
 ],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-06",
-"2026-12-06"
-]
-],
-"types": [],
 "lien": "",
 "resume": ""
 },
@@ -1971,6 +1952,23 @@
 "resume": ""
 },
 {
+"titre": "Marché de Noël, Précy",
+"commune": "Précy-sous-Thil",
+"km": 20,
+"periodes": [
+[
+"2026-12-13",
+"2026-12-13"
+]
+],
+"types": [
+"Vente",
+"Marché"
+],
+"lien": "https://facebook.com/lesamisdumarche21390",
+"resume": ""
+},
+{
 "titre": "Marché de Noël de Saint-Germain-de-Modéon",
 "commune": "Saint-Germain-de-Modéon",
 "km": 23,
@@ -2047,6 +2045,20 @@
 "Visite"
 ],
 "lien": "https://tickets.monuments-nationaux.fr/fr-FR/familles?site=2015384433810400027",
+"resume": ""
+},
+{
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-20",
+"2026-12-20"
+]
+],
+"types": [],
+"lien": "",
 "resume": ""
 },
 {
