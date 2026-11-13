@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-12",
+"maj": "2026-11-13",
 "rayon_km": 25,
 "evenements": [
 {
@@ -253,22 +253,6 @@
 "resume": ""
 },
 {
-"titre": "Un mois, une oeuvre",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Visite"
-],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "Festival TAPAGE #3 : Cine-Ponti",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -283,6 +267,22 @@
 "Spectacle"
 ],
 "lien": "https://festivaltapage.fr/",
+"resume": ""
+},
+{
+"titre": "Un mois, une oeuvre",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-14",
+"2026-11-14"
+]
+],
+"types": [
+"Visite"
+],
+"lien": "",
 "resume": ""
 },
 {
@@ -406,22 +406,6 @@
 "resume": ""
 },
 {
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Impermanence",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -435,6 +419,22 @@
 "Exposition"
 ],
 "lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
 "resume": ""
 },
 {
@@ -1969,6 +1969,20 @@
 "resume": ""
 },
 {
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-13",
+"2026-12-13"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Marché de Noël de Saint-Germain-de-Modéon",
 "commune": "Saint-Germain-de-Modéon",
 "km": 23,
@@ -2045,20 +2059,6 @@
 "Visite"
 ],
 "lien": "https://tickets.monuments-nationaux.fr/fr-FR/familles?site=2015384433810400027",
-"resume": ""
-},
-{
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-20",
-"2026-12-20"
-]
-],
-"types": [],
-"lien": "",
 "resume": ""
 },
 {
