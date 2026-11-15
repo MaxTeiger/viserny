@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-14",
+"maj": "2026-11-15",
 "rayon_km": 25,
 "evenements": [
 {
@@ -156,222 +156,19 @@
 "resume": ""
 },
 {
-"titre": "Festival TAPAGE #3 !",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-13",
-"2026-11-15"
-]
-],
-"types": [
-"Enfants"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Du vent dans nos corps",
-"commune": "Montbard",
-"km": 8,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-],
-[
-"2026-11-15",
-"2026-11-15"
-]
-],
-"types": [
-"Concert"
-],
-"lien": "https://musiquecorpscreux.wixsite.com/website",
-"resume": ""
-},
-{
-"titre": "Festival TAPAGE #3 : Cine-Ponti",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Cinéma",
-"Spectacle"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Dans le cadre de TAPAGE #3 : Spectacle \"MAINS\"",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Spectacle",
-"Théâtre"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Bal des lucioles",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Enfants",
-"Festival"
-],
-"lien": "https://festivaltapage.fr/",
-"resume": ""
-},
-{
-"titre": "Un mois, une oeuvre",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Visite"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Atelier aquarelle",
-"commune": "Semur-en-Auxois",
-"km": 10,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-],
-[
-"2026-11-28",
-"2026-11-28"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Novembre en douceur",
-"commune": "Massingy-lès-Semur",
-"km": 11,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [],
-"lien": "https://www.facebook.com/lesanessesdelacotedupuits",
-"resume": ""
-},
-{
-"titre": "Loto de l'école Debussy-Rostand",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Spectacle Le cirque, la vie et tout le reste de et par Gulko",
-"commune": "Montréal",
-"km": 19,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Spectacle"
-],
-"lien": "https://www.helloasso.com/associations/association-chateau-de-monthelon/evenements/nuit-du-cirque-de-monthelon-2026",
-"resume": ""
-},
-{
-"titre": "Course d'orientation",
-"commune": "Clamerey",
-"km": 20,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-]
-],
-"types": [
-"Sport"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Soirée théâtre \"c'est pas clerc\"",
-"commune": "Magny",
-"km": 25,
-"periodes": [
-[
-"2026-11-14",
-"2026-11-14"
-],
-[
-"2026-11-15",
-"2026-11-15"
-]
-],
-"types": [
-"Théâtre"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Festival TAPAGE #3 : \"Comment naissent les histoires ?\"",
-"commune": "Semur-en-Auxois",
-"km": 9,
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
 "periodes": [
 [
 "2026-11-15",
-"2026-11-15"
+"2027-03-14"
 ]
 ],
 "types": [
-"Enfants",
-"Spectacle",
-"Théâtre"
+"Exposition"
 ],
-"lien": "https://festivaltapage.fr/",
+"lien": "https://laporcherie.com/",
 "resume": ""
 },
 {
@@ -388,22 +185,6 @@
 "Exposition"
 ],
 "lien": "http://www.laporcherie.com/",
-"resume": ""
-},
-{
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
 "resume": ""
 },
 {
@@ -1454,6 +1235,22 @@
 "resume": ""
 },
 {
+"titre": "Concert en Aparté",
+"commune": "La Roche-en-Brenil",
+"km": 22,
+"periodes": [
+[
+"2026-11-20",
+"2026-11-20"
+]
+],
+"types": [
+"Concert"
+],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Gratiferia",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1517,6 +1314,22 @@
 "resume": ""
 },
 {
+"titre": "Journée Art & Essai du Cinéma européen",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-22",
+"2026-11-22"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "https://www.etoilecinema.com/evenement/journee-art--essai-du-cinema-europeen-4427",
+"resume": ""
+},
+{
 "titre": "Concert Voce Vita",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1566,6 +1379,22 @@
 "resume": ""
 },
 {
+"titre": "Yoga Nidra à chênesaint",
+"commune": "La Roche-en-Brenil",
+"km": 23,
+"periodes": [
+[
+"2026-11-23",
+"2026-11-23"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Atelier : Salle de bain à zéro plastique et économique",
 "commune": "Nan-sous-Thil",
 "km": 20,
@@ -1607,6 +1436,20 @@
 ],
 "types": [],
 "lien": "https://www.facebook.com/lespetitesherbesdodette",
+"resume": ""
+},
+{
+"titre": "Atelier aquarelle",
+"commune": "Semur-en-Auxois",
+"km": 10,
+"periodes": [
+[
+"2026-11-28",
+"2026-11-28"
+]
+],
+"types": [],
+"lien": "",
 "resume": ""
 },
 {
@@ -1811,20 +1654,6 @@
 "resume": ""
 },
 {
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-06",
-"2026-12-06"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "Dicklove",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1954,6 +1783,20 @@
 "Marché"
 ],
 "lien": "https://facebook.com/lesamisdumarche21390",
+"resume": ""
+},
+{
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-13",
+"2026-12-13"
+]
+],
+"types": [],
+"lien": "",
 "resume": ""
 },
 {
