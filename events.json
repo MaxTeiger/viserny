@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-16",
+"maj": "2026-11-17",
 "rayon_km": 25,
 "evenements": [
 {
@@ -244,22 +244,6 @@
 "resume": ""
 },
 {
-"titre": "Séance cinéma \"Les misérables\"",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-17",
-"2026-11-17"
-]
-],
-"types": [
-"Cinéma"
-],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "Atelier d'écriture SAISON 3",
 "commune": "Venarey-les-Laumes",
 "km": 12,
@@ -279,6 +263,22 @@
 ],
 "types": [],
 "lien": "http://www.mediatheque-venarey.net/",
+"resume": ""
+},
+{
+"titre": "Séance cinéma \"Les misérables\"",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-11-17",
+"2026-11-17"
+]
+],
+"types": [
+"Cinéma"
+],
+"lien": "",
 "resume": ""
 },
 {
@@ -1654,6 +1654,20 @@
 "resume": ""
 },
 {
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-06",
+"2026-12-06"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Dicklove",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1783,20 +1797,6 @@
 "Marché"
 ],
 "lien": "https://facebook.com/lesamisdumarche21390",
-"resume": ""
-},
-{
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-13",
-"2026-12-13"
-]
-],
-"types": [],
-"lien": "",
 "resume": ""
 },
 {
