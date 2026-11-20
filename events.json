@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-19",
+"maj": "2026-11-20",
 "rayon_km": 25,
 "evenements": [
 {
@@ -201,23 +201,6 @@
 "Exposition"
 ],
 "lien": "https://www.abbayedefontenay.com/",
-"resume": ""
-},
-{
-"titre": "Concours de reproducteurs de Charolais",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-18",
-"2026-11-19"
-]
-],
-"types": [
-"Exposition",
-"Vente"
-],
-"lien": "",
 "resume": ""
 },
 {
