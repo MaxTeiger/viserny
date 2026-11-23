@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-22",
+"maj": "2026-11-23",
 "rayon_km": 25,
 "evenements": [
 {
@@ -142,22 +142,6 @@
 "resume": ""
 },
 {
-"titre": "Impermanence",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "http://www.laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Georges",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -174,6 +158,22 @@
 "resume": ""
 },
 {
+"titre": "Impermanence",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
 "titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
 "commune": "Marmagne",
 "km": 9,
@@ -187,22 +187,6 @@
 "Exposition"
 ],
 "lien": "https://www.abbayedefontenay.com/",
-"resume": ""
-},
-{
-"titre": "Yoga Nidra à chênesaint",
-"commune": "La Roche-en-Brenil",
-"km": 23,
-"periodes": [
-[
-"2026-11-23",
-"2026-11-23"
-]
-],
-"types": [
-"Sport"
-],
-"lien": "",
 "resume": ""
 },
 {
