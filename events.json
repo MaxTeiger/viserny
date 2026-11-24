@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-23",
+"maj": "2026-11-24",
 "rayon_km": 25,
 "evenements": [
 {
@@ -142,22 +142,6 @@
 "resume": ""
 },
 {
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Impermanence",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -171,6 +155,22 @@
 "Exposition"
 ],
 "lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
 "resume": ""
 },
 {
@@ -1687,20 +1687,6 @@
 "resume": ""
 },
 {
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-13",
-"2026-12-13"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "Marché de Noël de Saint-Germain-de-Modéon",
 "commune": "Saint-Germain-de-Modéon",
 "km": 23,
@@ -1824,6 +1810,20 @@
 "types": [
 "Sport"
 ],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-20",
+"2026-12-20"
+]
+],
+"types": [],
 "lien": "",
 "resume": ""
 },
