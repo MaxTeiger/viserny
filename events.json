@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-24",
+"maj": "2026-11-25",
 "rayon_km": 25,
 "evenements": [
 {
@@ -142,22 +142,6 @@
 "resume": ""
 },
 {
-"titre": "Impermanence",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "http://www.laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Georges",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -174,6 +158,22 @@
 "resume": ""
 },
 {
+"titre": "Impermanence",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "http://www.laporcherie.com/",
+"resume": ""
+},
+{
 "titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
 "commune": "Marmagne",
 "km": 9,
@@ -187,60 +187,6 @@
 "Exposition"
 ],
 "lien": "https://www.abbayedefontenay.com/",
-"resume": ""
-},
-{
-"titre": "Sophro-balade",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-24",
-"2026-11-24"
-],
-[
-"2026-12-01",
-"2026-12-01"
-],
-[
-"2026-12-08",
-"2026-12-08"
-],
-[
-"2026-12-15",
-"2026-12-15"
-],
-[
-"2026-12-22",
-"2026-12-22"
-],
-[
-"2026-12-29",
-"2026-12-29"
-]
-],
-"types": [
-"Sport"
-],
-"lien": "https://www.corinecastella.com/",
-"resume": ""
-},
-{
-"titre": "Atelier d'écriture SAISON 3",
-"commune": "Venarey-les-Laumes",
-"km": 12,
-"periodes": [
-[
-"2026-11-24",
-"2026-11-24"
-],
-[
-"2026-12-08",
-"2026-12-08"
-]
-],
-"types": [],
-"lien": "http://www.mediatheque-venarey.net/",
 "resume": ""
 },
 {
@@ -1200,20 +1146,6 @@
 "resume": ""
 },
 {
-"titre": "Atelier découverte des plantes médicinales alliées de la ménopause",
-"commune": "Semur-en-Auxois",
-"km": 9,
-"periodes": [
-[
-"2026-11-28",
-"2026-11-28"
-]
-],
-"types": [],
-"lien": "https://www.facebook.com/lespetitesherbesdodette",
-"resume": ""
-},
-{
 "titre": "Arpentage autour de l'écoféministe Val Plumwood : \"Gaïa, la nourriture et la mort\"",
 "commune": "Semur-en-Auxois",
 "km": 9,
@@ -1225,6 +1157,20 @@
 ],
 "types": [],
 "lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier découverte des plantes médicinales alliées de la ménopause",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-11-28",
+"2026-11-28"
+]
+],
+"types": [],
+"lien": "https://www.facebook.com/lespetitesherbesdodette",
 "resume": ""
 },
 {
@@ -1346,6 +1292,38 @@
 "Cinéma"
 ],
 "lien": "https://www.ticketingcine.com/?EMS1153#showmovie?id=SOF6K",
+"resume": ""
+},
+{
+"titre": "Sophro-balade",
+"commune": "Semur-en-Auxois",
+"km": 9,
+"periodes": [
+[
+"2026-12-01",
+"2026-12-01"
+],
+[
+"2026-12-08",
+"2026-12-08"
+],
+[
+"2026-12-15",
+"2026-12-15"
+],
+[
+"2026-12-22",
+"2026-12-22"
+],
+[
+"2026-12-29",
+"2026-12-29"
+]
+],
+"types": [
+"Sport"
+],
+"lien": "https://www.corinecastella.com/",
 "resume": ""
 },
 {
@@ -1478,6 +1456,20 @@
 "resume": ""
 },
 {
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-06",
+"2026-12-06"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
 "titre": "Repas animé du Téléthon - Trois communes ensemble pour le Téléthon",
 "commune": "Saint-Germain-de-Modéon",
 "km": 23,
@@ -1489,6 +1481,20 @@
 ],
 "types": [],
 "lien": "",
+"resume": ""
+},
+{
+"titre": "Atelier d'écriture SAISON 3",
+"commune": "Venarey-les-Laumes",
+"km": 12,
+"periodes": [
+[
+"2026-12-08",
+"2026-12-08"
+]
+],
+"types": [],
+"lien": "http://www.mediatheque-venarey.net/",
 "resume": ""
 },
 {
@@ -1810,20 +1816,6 @@
 "types": [
 "Sport"
 ],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-20",
-"2026-12-20"
-]
-],
-"types": [],
 "lien": "",
 "resume": ""
 },
