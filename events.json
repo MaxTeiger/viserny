@@ -1,5 +1,5 @@
 {
-"maj": "2026-11-26",
+"maj": "2026-11-27",
 "rayon_km": 25,
 "evenements": [
 {
@@ -144,22 +144,6 @@
 "resume": ""
 },
 {
-"titre": "Georges",
-"commune": "Ménétreux-le-Pitois",
-"km": 14,
-"periodes": [
-[
-"2026-11-15",
-"2027-03-14"
-]
-],
-"types": [
-"Exposition"
-],
-"lien": "https://laporcherie.com/",
-"resume": ""
-},
-{
 "titre": "Impermanence",
 "commune": "Ménétreux-le-Pitois",
 "km": 14,
@@ -176,6 +160,22 @@
 "resume": ""
 },
 {
+"titre": "Georges",
+"commune": "Ménétreux-le-Pitois",
+"km": 14,
+"periodes": [
+[
+"2026-11-15",
+"2027-03-14"
+]
+],
+"types": [
+"Exposition"
+],
+"lien": "https://laporcherie.com/",
+"resume": ""
+},
+{
 "titre": "Crèche de l'Abbaye de Fontenay 2026/2027",
 "commune": "Marmagne",
 "km": 9,
@@ -189,61 +189,6 @@
 "Exposition"
 ],
 "lien": "https://www.abbayedefontenay.com/",
-"resume": ""
-},
-{
-"titre": "STAGE Chanter comme on joue",
-"commune": "Rougemont",
-"km": 12,
-"periodes": [
-[
-"2026-11-27",
-"2026-11-27"
-],
-[
-"2026-11-28",
-"2026-11-28"
-],
-[
-"2026-11-29",
-"2026-11-29"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Concert avec Les sans voix de la Douix",
-"commune": "Venarey-les-Laumes",
-"km": 13,
-"periodes": [
-[
-"2026-11-27",
-"2026-11-27"
-]
-],
-"types": [
-"Concert"
-],
-"lien": "",
-"resume": ""
-},
-{
-"titre": "Légumes de saison et épicerie locale",
-"commune": "Perrigny-sur-Armançon",
-"km": 14,
-"periodes": [
-[
-"2026-11-27",
-"2026-11-27"
-]
-],
-"types": [
-"Vente",
-"Marché"
-],
-"lien": "",
 "resume": ""
 },
 {
@@ -298,6 +243,24 @@
 [
 "2026-11-28",
 "2026-11-28"
+]
+],
+"types": [],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "STAGE Chanter comme on joue",
+"commune": "Rougemont",
+"km": 12,
+"periodes": [
+[
+"2026-11-28",
+"2026-11-28"
+],
+[
+"2026-11-29",
+"2026-11-29"
 ]
 ],
 "types": [],
@@ -1697,20 +1660,6 @@
 "resume": ""
 },
 {
-"titre": "Thé dansant",
-"commune": "La Roche-Vanneau",
-"km": 21,
-"periodes": [
-[
-"2026-12-13",
-"2026-12-13"
-]
-],
-"types": [],
-"lien": "",
-"resume": ""
-},
-{
 "titre": "Marché de Noël de Saint-Germain-de-Modéon",
 "commune": "Saint-Germain-de-Modéon",
 "km": 23,
@@ -1834,6 +1783,20 @@
 "types": [
 "Sport"
 ],
+"lien": "",
+"resume": ""
+},
+{
+"titre": "Thé dansant",
+"commune": "La Roche-Vanneau",
+"km": 21,
+"periodes": [
+[
+"2026-12-20",
+"2026-12-20"
+]
+],
+"types": [],
 "lien": "",
 "resume": ""
 },
